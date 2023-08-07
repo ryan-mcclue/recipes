@@ -135,16 +135,41 @@ global_recipes = [
      I("brocolli", 1),
     ],
     ),
-
+  R("beef-stroganoff", "beef", "pasta", 45,
+    [I("fillet-steak", 600),
+     I("brown-onion", 1),
+     I("mushroom", 300),
+     I("plain-flour", 2),
+     I("beef-stock", 2),
+     I("dijon-mustard", 1),
+     I("sour-cream", 150),
+     I("penne-pasta", 500),
+     I("fresh-chives", 1),
+    ],
+    ),
+  R("kung-pao-chicken", "chicken", "rice", 1,
+    [I("rice-wine", 2),
+     I("white-pepper", 0.25),
+     I("dark-soy-sauce", 5),
+     I("hoisin-sauce", 4),
+     I("sesame-oil", 1),
+     I("garlic", 2),
+     I("ginger", 1),
+     I("chicken-breast", 500),
+     I("corn-flour", 1),
+     I("red-chilli", 2),
+     I("red-capsicum", 2),
+     I("zucchini", 1),
+     I("spring-onion", 12),
+     I("cashew", 1),
+     I("white-rice", 500),
+    ],
+    ),
 
 ]
 
-## 
-# chicken pie, 
-
-# stroganoff, cottage pie, rendang
+# cottage pie, rendang
 # paprikash, mee goreng (thin), kung pao
-
 
 # black pepper beef, beef goulash, beef ragu, beef and guiness stew, lasagne, steak pie, chilli con-carne, spicy ginger beef stir fry
 # chicken parmesan, chicken korma, chicken tikka masala, chicken madras, chicken marsala, honey garlic, honey lemon, szechuan chicken 
@@ -162,8 +187,6 @@ def recipes():
       else:
         ingredients[ingredient.name] = ingredient.amount
 
-  # TODO(Ryan): Print misc. like paper towels, toilet paper etc. 
-  # TODO(Ryan): print snacks
   print("CHECK:")
   to_check=["butter", "olive oil", "salt", "pepper", 
             "hummus", "baba-ganoush", "peanut-butter", "cheese-sticks",

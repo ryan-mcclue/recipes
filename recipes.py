@@ -162,10 +162,22 @@ def recipes():
       else:
         ingredients[ingredient.name] = ingredient.amount
 
-  # TODO(Ryan): Print assumptions: olive oil, butter, salt, pepper
   # TODO(Ryan): Print misc. like paper towels, toilet paper etc. 
   # TODO(Ryan): print snacks
-  print(names[:-2])
+  print("CHECK:")
+  to_check=["butter", "olive oil", "salt", "pepper", 
+            "hummus", "baba-ganoush", "peanut-butter", "cheese-sticks",
+            "dates", "dark-chocolate", "grapes", "tea",
+            "vita-wheats", "corn-chips",
+            "rolled-oats", "yogurt", "frozen-berries", "mixed-nuts", "cinnamon", "coconut-flakes", "seeds", "juice", "kale",
+            "ice-cream"
+           ]
+  for check in to_check:
+    print(f"* {check}")
+
+  print("\nADD:\n")
+
+  print(f"\nRECIPES:\n{names[:-2]}")
   for name, amount in ingredients.items():
     print(f"* {name}: {amount}")
 

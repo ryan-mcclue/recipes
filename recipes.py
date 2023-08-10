@@ -22,7 +22,9 @@ class I:
   amount: float
   category: str
 
-
+# alcohol
+# canned
+# condiments
 
 # TODO(Ryan): Max-flow to ensure constraints, e.g. 2 beef, 2 pasta etc.
 global_recipes = [
@@ -239,7 +241,7 @@ def recipes():
     if cur_category != category:
       cur_category = category
       print(f"\n**{cur_category.upper()}**:", file=print_output)
-    print(f"{ingredient_name}, ", file=print_output)
+    print(f"{ingredient_name} ({ingredient.amount}), ", file=print_output)
 
 
   # NOTE(Ryan): To inform bash script to create pdf and open it

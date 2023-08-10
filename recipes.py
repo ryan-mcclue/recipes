@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # SPDX-License-Identifier: zlib-acknowledgement
 
+import sys
+
 from dataclasses import dataclass
 from typing import List
 
@@ -223,14 +225,26 @@ def recipes():
 
   sorted_ingredients = dict(sorted(ingredients.items(), key=lambda i: i[1].category))
 
-  print(f"\nRECIPES:\n{names[:-2]}\n")
+  print_output = sys.stdout
+
+  want_to_print = True
+  if want_to_print:
+    print_output = open("recipes.md", "w")
+
+  print(f"\n##### RECIPES:\n{names[:-2]}\n", file=print_output)
   cur_category = ""
+
   for ingredient_name, ingredient in sorted_ingredients.items():
     category = ingredient.category
     if cur_category != category:
-      print(f"{category.upper()}:")
       cur_category = category
-    print(f"    * {ingredient_name}: {ingredient.amount}")
+      print(f"\n**{cur_category.upper()}**:", file=print_output)
+    print(f"{ingredient_name}, ", file=print_output)
+
+
+  # NOTE(Ryan): To inform bash script to create pdf and open it
+  if want_to_print:
+    print("to-print")
 
 if __name__ == "__main__":
   recipes()

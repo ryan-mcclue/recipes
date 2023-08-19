@@ -59,6 +59,7 @@ global_recipes = [
      I("pancetta", 150, "meat"),
      I("red-wine", 200, "alcohol"),
      I("tomato-paste", 2, "other"),
+     I("passata", 200, "other"),
      I("chicken-stock", 1, "other"),
     ],
     ),
@@ -73,7 +74,7 @@ global_recipes = [
      I("garlic", 3, "fruit-veg"),
      I("white-pepper", 0.25, "condiment"),
      I("flank-steak", 500, "meat"),
-     I("flat-rice-noodles", 200, "other"),
+     I("thin-rice-noodles", 200, "other"),
      I("brown-onion", 1, "fruit-veg"),
      I("yellow-capsicum", 1, "fruit-veg"),
      I("bean-sprouts", 200, "fruit-veg"),
@@ -171,11 +172,50 @@ global_recipes = [
      I("white-rice", 500, "other"),
     ],
     ),
-
+  R("cottage-pie", "beef", "potato", 1,
+    [I("brown-onion", 2, "fruit-veg"),
+     I("celery", 2, "fruit-veg"),
+     I("carrot", 2, "fruit-veg"),
+     I("green-beans", 200, "fruit-veg"),
+     I("beef-mince", 900, "meat"),
+     I("worcestershire-sauce", 2, "other"),
+     I("beef-stock", 2, "other"),
+     I("potato", 1800, "fruit-veg"),
+     I("heavy-cream", 120, "dairy"),
+     I("corn-flour", 2, "other"),
+    ],
+    ),
+  R("chicken-paprikash", "chicken", "pasta", 1,
+    [I("brown-onion", 1, "fruit-veg"),
+     I("garlic", 2, "fruit-veg"),
+     I("tin-tomatoes", 400, "other"),
+     I("celery", 2, "fruit-veg"),
+     I("chicken-breast", 500, "meat"),
+     I("plain-flour", 2, "other"),
+     I("sweet-paprika", 2, "other"),
+     I("chicken-stock", 2, "other"),
+     I("sour-cream", 225, "dairy"),
+     I("fussili-pasta", 500, "other"),
+    ],
+    ),
+  R("mee-goreng", "chicken", "noodles", 1,
+    [I("shallot", 2, "fruit-veg"),
+     I("mushroom", 5, "fruit-veg"),
+     I("garlic", 2, "fruit-veg"),
+     I("white-cabbage", 0.5, "fruit-veg"),
+     I("chicken-breast", 500, "meat"),
+     I("thick-egg-noodles", 2, "other"),
+     I("bean-sprouts", 150, "fruit-veg"),
+     I("spring-onion", 6, "fruit-veg"),
+     I("red-chilli", 1, "fruit-veg"),
+     I("sweet-soy-sauce", 4, "other"),
+     I("dark-soy-sauce", 3, "other"),
+     I("oyster-sauce", 2, "other"),
+     I("sweet-chilli-sauce", 2, "other"),
+     I("white-pepper", 0.25, "other"),
+    ],
+    ),
 ]
-
-# cottage pie, rendang
-# paprikash, mee goreng (thin), kung pao
 
 # black pepper beef, beef goulash, beef ragu, beef and guiness stew, lasagne, steak pie, chilli con-carne, spicy ginger beef stir fry
 # chicken parmesan, chicken korma, chicken tikka masala, chicken madras, chicken marsala, honey garlic, honey lemon, szechuan chicken 
@@ -186,7 +226,7 @@ def recipes():
   names = ""
   ingredients = {}
   # TODO(Ryan): More intelligent recipe culling
-  for recipe in global_recipes[:6]:
+  for recipe in global_recipes[6:]:
     names += (recipe.name + f"({recipe.duration}-{recipe.grain}), ")
     for ingredient in recipe.ingredients:
       if ingredients.get(ingredient.name, None) is not None:
@@ -194,6 +234,7 @@ def recipes():
       else:
         ingredients[ingredient.name] = ingredient
 
+  # TODO(Ryan): Add medicinal and toiletries
   regular_ingredients=[I("BUTTER", 0, "dairy"), 
             I("OLIVE-OIL", 0, "other"),
             I("SALT", 0, "other"),
@@ -204,6 +245,8 @@ def recipes():
             I("CHEESE-STICKS", 0, "dairy"),
             I("FAVA-BEANS", 0, "other"),
             I("DATES", 0, "fruit-veg"),
+            I("APPLES", 0, "fruit-veg"),
+            I("BANANAS", 0, "fruit-veg"),
             I("GRAPES", 0, "fruit-veg"),
             I("DARK-CHOCOLATE", 0, "other"),
             I("TEA", 0, "other"),
@@ -217,9 +260,20 @@ def recipes():
             I("CINNAMON", 0, "other"),
             I("COCONUT-FLAKES", 0, "other"),
             I("SEEDS", 0, "other"),
+            I("HONEY", 0, "other"),
             I("JUICE", 0, "dairy"),
             I("KALE", 0, "fruit-veg"),
             I("MILK", 0, "dairy"),
+            I("PAPER TOWELS", 0, "toiletries"),
+            I("TISSUES", 0, "toiletries"),
+            I("TOILET PAPER", 0, "toiletries"),
+            I("DEODERANT", 0, "toiletries"),
+            I("TOOTHPASTE", 0, "toiletries"),
+            I("DENTAL FLOSS", 0, "toiletries"),
+            I("SUNSCREEN", 0, "toiletries"),
+            I("PANADOL", 0, "medicinal"),
+            I("NUROFEN", 0, "medicinal"),
+            I("DEMAZIN", 0, "medicinal"),
            ]
 
   for regular_ingredient in regular_ingredients:
@@ -233,7 +287,7 @@ def recipes():
   if want_to_print:
     print_output = open("recipes.md", "w")
 
-  print(f"\n##### RECIPES:\n{names[:-2]}\n", file=print_output)
+  print(f"\n**RECIPES:** {names[:-2]}\n", file=print_output)
   cur_category = ""
 
   for ingredient_name, ingredient in sorted_ingredients.items():

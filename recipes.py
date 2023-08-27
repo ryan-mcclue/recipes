@@ -215,10 +215,94 @@ global_recipes = [
      I("white-pepper", 0.25, "other"),
     ],
     ),
+  R("black-pepper-beef", "beef", "rice", 1,
+    [I("black-peppercorns", 10, "other"),
+     I("sirloin", 450, "meat"),
+     I("sesame-oil", 1, "other"),
+     I("brown-onion", 2, "fruit-veg"),
+     I("red-capsicum", 1, "fruit-veg"),
+     I("green-capsicum", 1, "fruit-veg"),
+     I("cornflour", 2, "other"),
+     I("dark-soy-sauce", 2, "other"),
+     I("oyster-sauce", 2, "other"),
+     I("red-chilli", 1, "fruit-veg"),
+     I("rice-wine", 1, "other"),
+     I("beef-stock", 0.5, "other"),
+     I("garlic", 2, "fruit-veg"),
+     I("ginger", 1, "fruit-veg"),
+     I("white-rice", 500, "other"),
+    ],
+    ),
+  R("cajun-chicken-pasta", "chicken", "pasta", 1,
+    [I("brown-onion", 1, "fruit-veg"),
+     I("cajun-seasoning", 2, "other"),
+     I("chicken-breast", 600, "meat"),
+     I("chorizo", 75, "meat"),
+     I("garlic", 2, "fruit-veg"),
+     I("green-capsicum", 1, "fruit-veg"),
+     I("red-capsicum", 1, "fruit-veg"),
+     I("tin-tomatoes", 400, "other"),
+     I("chicken-stock", 1, "other"),
+     I("heavy-cream", 2, "dairy"),
+     I("baby-spinach", 120, "fruit-veg"),
+     I("cherry-tomatoes", 10, "fruit-veg"),
+     I("cheddar-cheese", 50, "dairy"),
+     I("rigatoni-pasta", 500, "other"),
+    ],
+    ),
+  R("smoky-meatball-pasta-bake", "beef", "pasta", 1,
+    [I("beef-mince", 500, "meat"),
+     I("shallot", 1, "fruit-veg"),
+     I("garlic", 1, "fruit-veg"),
+     I("breadcrumbs", 60, "other"),
+     I("egg", 1, "dairy"),
+     I("italian-herbs", 1, "other"),
+     I("tin-tomatoes", 400, "other"),
+     I("beef-stock", 1, "other"),
+     I("worcestershire-sauce", 1, "other"),
+     I("smoked-paprika", 1, "other"),
+     I("cheddar-cheese", 40, "dairy"),
+     I("mozarella-cheese", 30, "dairy"),
+    ],
+    ),
+  R("lamb-kofta", "lamb", "flatbread", 1,
+    [I("lamb-mince", 500, "meat"),
+     I("brown-onion", 1, "fruit-veg"),
+     I("garlic", 3, "fruit-veg"),
+     I("fresh-mint", 1, "fruit-veg"),
+     I("cumin", 3, "other"),
+     I("coriander", 2, "other"),
+     I("chilli-flakes", 1, "other"),
+     I("cinnamon", 1, "other"),
+     I("flatbread", 4, "other"),
+     I("cherry-tomatoes", 10, "fruit-veg"),
+     I("salad-mix", 1, "fruit-veg"),
+     I("cucumber", 1, "fruit-veg"),
+     I("greek-yoghurt", 250, "dairy"),
+     I("white-wine-vinegar", 1, "other"),
+     I("fresh-dill", 1, "fruit-veg"),
+    ],
+    ),
+  R("honey-garlic-chicken", "chicken", "rice", 1,
+    [I("chicken-tenderloins", 500, "meat"),
+     I("cornflour", 2, "other"),
+     I("garlic", 4, "fruit-veg"),
+     I("honey", 110, "other"),
+     I("chicken-stock", 0.5, "other"),
+     I("rice-vinegar", 1, "other"),
+     I("light-soy-sauce", 1, "other"),
+     I("white-rice", 500, "other"),
+     I("brocolli", 1, "fruit-veg"),
+     I("carrot", 2, "fruit-veg"),
+     I("green-beans", 200, "fruit-veg"),
+    ],
+    ),
 ]
 
-# black pepper beef, beef goulash, beef ragu, beef and guiness stew, lasagne, steak pie, chilli con-carne, spicy ginger beef stir fry
-# chicken parmesan, chicken korma, chicken tikka masala, chicken madras, chicken marsala, honey garlic, honey lemon, szechuan chicken 
+# chilli con-carne, chicken korma
+# beef goulash, beef ragu, beef and guiness stew, lasagne, steak pie,  spicy ginger beef stir fry
+# chicken parmesan, chicken korma, chicken tikka masala, chicken madras, chicken marsala,  honey lemon
+# TODO(Ryan): Add soup, tortillas
 
 def recipes():
   global global_recipes
@@ -226,7 +310,7 @@ def recipes():
   names = ""
   ingredients = {}
   # TODO(Ryan): More intelligent recipe culling
-  for recipe in global_recipes[6:]:
+  for recipe in global_recipes[-5:]:
     names += (recipe.name + f"({recipe.duration}-{recipe.grain}), ")
     for ingredient in recipe.ingredients:
       if ingredients.get(ingredient.name, None) is not None:
@@ -248,6 +332,7 @@ def recipes():
             I("APPLES", 0, "fruit-veg"),
             I("BANANAS", 0, "fruit-veg"),
             I("GRAPES", 0, "fruit-veg"),
+            I("CARROTS", 0, "fruit-veg"),
             I("DARK-CHOCOLATE", 0, "other"),
             I("TEA", 0, "other"),
             I("VITA-WHEATS", 0, "other"),
@@ -274,6 +359,15 @@ def recipes():
             I("PANADOL", 0, "medicinal"),
             I("NUROFEN", 0, "medicinal"),
             I("DEMAZIN", 0, "medicinal"),
+            I("SPONGE", 0, "other"),
+            I("BAR-SOAP", 0, "toiletries"),
+            I("SOAP", 0, "toiletries"),
+            I("STOVE-CLEANER", 0, "other"),
+            I("BIN-BAGS", 0, "other"),
+            I("COMPOST-BAGS", 0, "other"),
+            I("DISHWASHER-TABLETS", 0, "other"),
+            I("DETERGENT", 0, "other"),
+            I("GLEN-20", 0, "other"),
            ]
 
   for regular_ingredient in regular_ingredients:

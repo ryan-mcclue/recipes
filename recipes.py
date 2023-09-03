@@ -226,7 +226,7 @@ global_recipes = [
      I("dark-soy-sauce", 2, "other"),
      I("oyster-sauce", 2, "other"),
      I("red-chilli", 1, "fruit-veg"),
-     I("rice-wine", 1, "other"),
+     I("chinese-cooking-wine", 1, "other"),
      I("beef-stock", 0.5, "other"),
      I("garlic", 2, "fruit-veg"),
      I("ginger", 1, "fruit-veg"),
@@ -263,6 +263,7 @@ global_recipes = [
      I("smoked-paprika", 1, "other"),
      I("cheddar-cheese", 40, "dairy"),
      I("mozarella-cheese", 30, "dairy"),
+     I("rigatoni-pasta", 500, "other"),
     ],
     ),
   R("lamb-kofta", "lamb", "flatbread", 1,
@@ -277,10 +278,9 @@ global_recipes = [
      I("flatbread", 4, "other"),
      I("cherry-tomatoes", 10, "fruit-veg"),
      I("salad-mix", 1, "fruit-veg"),
-     I("cucumber", 1, "fruit-veg"),
-     I("greek-yoghurt", 250, "dairy"),
      I("white-wine-vinegar", 1, "other"),
-     I("fresh-dill", 1, "fruit-veg"),
+     I("tzatiki", 1, "dairy"),
+     I("skewers", 6, "other"),
     ],
     ),
   R("honey-garlic-chicken", "chicken", "rice", 1,
@@ -310,7 +310,7 @@ def recipes():
   names = ""
   ingredients = {}
   # TODO(Ryan): More intelligent recipe culling
-  for recipe in global_recipes[-5:]:
+  for recipe in []:
     names += (recipe.name + f"({recipe.duration}-{recipe.grain}), ")
     for ingredient in recipe.ingredients:
       if ingredients.get(ingredient.name, None) is not None:
@@ -368,6 +368,15 @@ def recipes():
             I("DISHWASHER-TABLETS", 0, "other"),
             I("DETERGENT", 0, "other"),
             I("GLEN-20", 0, "other"),
+            I("BETADINE", 0, "medicinal"),
+            I("BAND-AIDS", 0, "medicinal"),
+            I("COTTON-BALLS", 0, "toiletries"),
+            I("SHAMPOO/CONDITIONER", 0, "toiletries"),
+            I("CLEANSER", 0, "toiletries"),
+            I("SUDAFED", 0, "medicinal"),
+            I("STREPSILS", 0, "medicinal"),
+            I("EUCALYPTUS", 0, "medicinal"),
+            I("PINO-CLEAN", 0, "other"),
            ]
 
   for regular_ingredient in regular_ingredients:

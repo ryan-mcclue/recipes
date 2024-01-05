@@ -43,3 +43,6 @@
     2. Grate the cucumber with a grater, then squeeze all of the liquid out using your hands.
     3. Place the squeezed out cucumber in a bowl and add the rest of the tzatziki ingredients. Mix together, then cover and refrigerate until ready to serve.
     4. Optional - if you like you can serve topped with a drizzle of olive oil, a few fresh sprigs of dill and some sliced cucumber.
+
+https://www.matthewaugusta.com/recipes/beef-kofta-kebabs-j55dr?rq=kebab
+(sumac, parsely, red onion, nutmeg, allspice, paprika, lemon juice, ground cardmon)

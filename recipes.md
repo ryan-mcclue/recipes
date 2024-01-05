@@ -1,25 +1,59 @@
 
-**RECIPES:** 
+**RECIPES:** butter-chicken(2-rice), kung-pao-chicken(1-rice), cottage-pie(1-potato), smoky-meatball-pasta-bake(1-pasta)
 
+
+**CONDIMENT**:
+garam-masala (2.5), 
+coriander (1), 
+paprika (2), 
+chilli-powder (1), 
+curry-powder (1), 
+cinnamon (0.5), 
 
 **DAIRY**:
+natural-yogurt (80), 
+heavy-cream (120), 
+egg (1), 
+cheddar-cheese (40), 
+mozarella-cheese (30), 
 BUTTER (0), 
 CHEESE-STICKS (0), 
 YOGURT (0), 
 JUICE (0), 
 MILK (0), 
 
+**DIARY**:
+double-cream (175), 
+
 **FROZEN**:
 FROZEN-BERRIES (0), 
 ICE-CREAM (0), 
 
 **FRUIT-VEG**:
+garlic (8), 
+brown-onion (3), 
+ginger (3), 
+cardamom-pods (6), 
+fresh-coriander (1), 
+red-chilli (2), 
+red-capsicum (2), 
+zucchini (1), 
+spring-onion (12), 
+celery (2), 
+carrot (2), 
+green-beans (200), 
+potato (1800), 
+shallot (1), 
 DATES (0), 
 APPLES (0), 
 BANANAS (0), 
 GRAPES (0), 
 CARROTS (0), 
 KALE (0), 
+
+**MEAT**:
+chicken-breast (1200), 
+beef-mince (1400), 
 
 **MEDICINAL**:
 PANADOL (0), 
@@ -32,6 +66,25 @@ STREPSILS (0),
 EUCALYPTUS (0), 
 
 **OTHER**:
+lemon-juice (1), 
+chicken-stock (0.5), 
+passata (400), 
+tomato-paste (2), 
+white-rice (1000), 
+rice-wine (2), 
+white-pepper (0.25), 
+dark-soy-sauce (5), 
+hoisin-sauce (4), 
+sesame-oil (1), 
+corn-flour (3), 
+cashew (1), 
+worcestershire-sauce (3), 
+beef-stock (3), 
+breadcrumbs (60), 
+italian-herbs (1), 
+tin-tomatoes (400), 
+smoked-paprika (1), 
+rigatoni-pasta (500), 
 OLIVE-OIL (0), 
 SALT (0), 
 PEPPER (0), 
@@ -57,6 +110,7 @@ DISHWASHER-TABLETS (0),
 DETERGENT (0), 
 GLEN-20 (0), 
 PINO-CLEAN (0), 
+SCOURER (0), 
 
 **TOILETRIES**:
 PAPER TOWELS (0), 

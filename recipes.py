@@ -26,76 +26,73 @@ class Ingredient:
   category: INGREDIENT_CAT
 
 global_ingredients = [
-  Ingredient("butter", 0, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY), 
-  Ingredient("olive-oil", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("SALT", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("PEPPER", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("HUMMUS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("BABA-GANOUSH", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("PEANUT-BUTTER", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("CHEESE-STICKS", 0, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
-  Ingredient("FAVA-BEANS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("DATES", 0, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("APPLES", 0, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("BANANAS", 0, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("GRAPES", 0, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("CARROTS", 0, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("DARK-CHOCOLATE", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("TEA", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("VITA-WHEATS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("CORN-CHIPS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("ROLLED-OATS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("YOGURT", 0, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
-  Ingredient("FROZEN-BERRIES", 0, INGREDIENT_CAT.INGREDIENT_CAT_FROZEN),
-  Ingredient("ICE-CREAM", 0, INGREDIENT_CAT.INGREDIENT_CAT_FROZEN),
-  Ingredient("MIXED-NUTS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("CINNAMON", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("COCONUT-FLAKES", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("SEEDS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("HONEY", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("JUICE", 0, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
-  Ingredient("KALE", 0, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("MILK", 0, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
-  Ingredient("PAPER TOWELS", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("TISSUES", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("TOILET PAPER", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("DEODERANT", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("TOOTHPASTE", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("DENTAL FLOSS", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("SUNSCREEN", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("PANADOL", 0, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
-  Ingredient("NUROFEN", 0, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
-  Ingredient("DEMAZIN", 0, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
-  Ingredient("SPONGE", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("BAR-SOAP", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("SOAP", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("STOVE-CLEANER", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("BIN-BAGS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("COMPOST-BAGS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("DISHWASHER-TABLETS", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("DETERGENT", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("GLEN-20", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("BETADINE", 0, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
-  Ingredient("BAND-AIDS", 0, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
-  Ingredient("COTTON-BALLS", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("SHAMPOO/CONDITIONER", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("CLEANSER", 0, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
-  Ingredient("SUDAFED", 0, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
-  Ingredient("STREPSILS", 0, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
-  Ingredient("EUCALYPTUS", 0, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
-  Ingredient("PINO-CLEAN", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("SCOURER", 0, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("CANNELLINI-BEANS", 2, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("TIN-TOMATOES", 2, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("DARK-BROWN-SUGAR", 2, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("EGGS", 12, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
-  Ingredient("AVOCADO", 2, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("MUSHROOMS", 500, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("RED-WINE-VINEGAR", 100, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("TOMATO-PASTE", 2, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
-  Ingredient("ONIONS", 1, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
-  Ingredient("THYME/SMOKED-PAPRIKA/CHILLI-FLAKES", 1, INGREDIENT_CAT.INGREDIENT_CAT_CONDIMENT),
-  Ingredient("BREAD", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("butter", 1, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY), 
+  Ingredient("olive-oil", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("salt", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("pepper", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("hummus", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("peanut-butter", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("cheese-sticks", 1, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
+  Ingredient("fava-beans", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("dates", 1, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
+  Ingredient("apples", 1, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
+  Ingredient("bananas", 1, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
+  Ingredient("carrots", 1, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
+  Ingredient("dark-chocolate", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("vita-wheats", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("corn-chips", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("rolled-oats", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("yogurt", 1, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
+  Ingredient("frozen-berries", 1, INGREDIENT_CAT.INGREDIENT_CAT_FROZEN),
+  Ingredient("ice-cream", 1, INGREDIENT_CAT.INGREDIENT_CAT_FROZEN),
+  Ingredient("mixed-nuts", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("cinnamon", 1, INGREDIENT_CAT.INGREDIENT_CAT_CONDIMENT),
+  Ingredient("coconut-flakes", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("seeds", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("honey", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("juice", 1, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
+  Ingredient("kale", 1, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
+  Ingredient("milk", 1, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
+  Ingredient("paper-towels", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("tissues", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("toilet-paper", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("deoderant", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("toothpaste", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("dental-floss", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("sunscreen", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("panadol", 1, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
+  Ingredient("nurofen", 1, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
+  Ingredient("demazin", 1, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
+  Ingredient("sponge", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("bar-soap", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("soap", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("stove-cleaner", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("bin-bags", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("compost-bags", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("dishwasher-tablets", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("detergent", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("glen-20", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("betadine", 1, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
+  Ingredient("band-aids", 1, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
+  Ingredient("cotton-balls", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("shampoo/conditioner", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("cleanser", 1, INGREDIENT_CAT.INGREDIENT_CAT_TOILETRIES),
+  Ingredient("sudafed", 1, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
+  Ingredient("strepsils", 1, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
+  Ingredient("eucalyptus", 1, INGREDIENT_CAT.INGREDIENT_CAT_MEDICINAL),
+  Ingredient("pino-clean", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("scourer", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("cannellini-beans", 2, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("tin-tomatoes", 2, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("dark-brown-sugar", 2, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("egg", 12, INGREDIENT_CAT.INGREDIENT_CAT_DAIRY),
+  Ingredient("avocado", 2, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
+  Ingredient("mushrooms", 500, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
+  Ingredient("red-wine-vinegar", 100, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("tomato-paste", 2, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
+  Ingredient("brown-onion", 1, INGREDIENT_CAT.INGREDIENT_CAT_FRUIT_VEG),
+  Ingredient("thyme/smoked-paprika/chilli-flakes", 1, INGREDIENT_CAT.INGREDIENT_CAT_CONDIMENT),
+  Ingredient("bread", 1, INGREDIENT_CAT.INGREDIENT_CAT_OTHER),
 ]
 
 tuscan_chicken = [
@@ -338,13 +335,18 @@ beef_and_ale_casserole = []
 chicken_tikka_masala = []
 black_pepper_tofu = []
 
-global_recipes = {
-  "stir-fry": [black_pepper_beef, mee_goreng, beef_chow_fun, black_pepper_tofu, kung_pao_chicken],
-  "curry": [chicken_tikka_masala, butter_chicken,],
-  "stew": [meatball_pasta_bake, chicken_paprikash, cottage_pie, beef_stroganoff, fettucine_bolognese, tuscan_chicken, beef_and_ale_casserole, chilli_con_carne, chicken_pie, honey_garlic_chicken],
-  "sandwich": [kofta, burrito, burger, pizza],
-  "other": [chicken_schnitzel, sausages_and_mash] 
-}
+global_recipes = [
+  # stir fry
+  black_pepper_beef, mee_goreng, beef_chow_fun, black_pepper_tofu, kung_pao_chicken,
+  # curry
+  chicken_tikka_masala, butter_chicken,
+  # stew
+  meatball_pasta_bake, chicken_paprikash, cottage_pie, beef_stroganoff, fettucine_bolognese, tuscan_chicken, beef_and_ale_casserole, chilli_con_carne, chicken_pie, honey_garlic_chicken,
+  # sandwich
+  kofta, burrito, burger, pizza,
+  # other
+  chicken_schnitzel, sausages_and_mash,
+]
 
 def recipes():
   global global_ingredients
@@ -363,7 +365,7 @@ def recipes():
   for ingredient in global_ingredients:
     ingredients[ingredient.name] = ingredient 
 
-  sorted_ingredients = dict(sorted(ingredients.items(), key=lambda i: i[1].category.value))
+  sorted_ingredients = dict(sorted(ingredients.items(), key=lambda i: i[1].category.name))
 
   want_to_print = True
   if want_to_print:
@@ -377,7 +379,7 @@ def recipes():
     category = ingredient.category
     if cur_category != category:
       cur_category = category
-      print(f"\n**{cur_category.name.upper()}**:", file=print_output)
+      print(f"\n**{cur_category.name.replace('INGREDIENT_CAT_', '').upper()}**:", file=print_output)
     print(f"{ingredient_name} ({ingredient.amount}), ", file=print_output)
 
 

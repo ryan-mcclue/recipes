@@ -1,5 +1,19 @@
-<!-- SPDX-License-Identifier: zlib-acknowledgement -->
-## Ingredients
+from .common import *
+
+recipe = [
+  Ingredient("beef-mince", 500, INGREDIENT_CAT.MEAT),
+  Ingredient("fettucine-pasta", 500, INGREDIENT_CAT.OTHER),
+  Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("celery", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("carrot", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("pancetta", 150, INGREDIENT_CAT.MEAT),
+  Ingredient("red-wine", 200, INGREDIENT_CAT.ALCOHOL),
+  Ingredient("tomato-paste", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("passata", 200, INGREDIENT_CAT.OTHER),
+  Ingredient("chicken-stock", 1, INGREDIENT_CAT.OTHER),
+]
+
+'''
     45 ml extra virgin olive oil
     25g butter
     1 x onion, finely chopped
@@ -20,5 +34,4 @@
     4. Dilute the tomato puree in a little of the stock and stir into the meat.
     5. Reduce the heat to low, cover with a lid and cook on a gentle heat for 2 hours, checking and adding a little extra stock from time to time to avoid the sauce from drying out.
     6. Remove from the heat and serve with freshly cooked tagliatelle.
-
-
+'''

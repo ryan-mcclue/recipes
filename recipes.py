@@ -350,6 +350,14 @@ global_recipes = [
   black_pepper_beef, mee_goreng, beef_chow_fun, black_pepper_tofu, kung_pao_chicken,
   # curry
   chicken_tikka_masala, butter_chicken,
+  # pasta
+  # meat and veg
+  # e.g. (spiced rice and meat)
+
+  # wraps/sandwiches 
+  # soup/pies
+  # pizza
+
   # stew
   meatball_pasta_bake, chicken_paprikash, cottage_pie, beef_stroganoff, fettucine_bolognese, tuscan_chicken, beef_and_ale_casserole, chilli_con_carne, chicken_pie, honey_garlic_chicken,
   # sandwich
@@ -364,7 +372,8 @@ def recipes():
 
   ingredients = {}
 
-  recipes_list = [hot_breakfast, kung_pao_chicken]
+  # IMPORTANT: Seems cook meat first and remove. Then cook garlic and onion in oil and once fragrant add more veggies. Then meat back
+  recipes_list = [kung_pao_chicken, butter_chicken, fettucine_bolognese, cottage_pie, lamb_kofta, chorizo_vegetable_soup]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

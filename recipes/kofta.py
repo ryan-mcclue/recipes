@@ -1,7 +1,7 @@
 from .common import *
 
 recipe = [
-  Ingredient("lamb-mince", 1000, INGREDIENT_CAT.MEAT),
+  Ingredient("beef-mince", 800, INGREDIENT_CAT.MEAT),
   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("fresh-mint", 1, INGREDIENT_CAT.FRUIT_VEG),
@@ -28,14 +28,23 @@ recipe = [
 '''
 ## Ingredients
 ### Lamb Koftas:
-  1tsp cinnamon
-  0.5tsp nutmeg
-  2tsp allspice
-  1tsp cumin
-  2tsp paprika
-  0.5tsp cayenne
-  0.5tsp ground green cardamom
-  1tsp sumac
+2 lbs Ground Beef 
+1/2 Onion (finely minced)
+4 Garlic Cloves (finely minced)
+1 Bunch Of Mint (finely minced) 
+1 Bunch Of Parsley (finely minced)
+1 Tbsp Lemon Juice 
+1 tsp Ground Coriander 
+1 tsp Ground Ginger 
+1 tsp Cinnamon 
+1/2 tsp Nutmeg
+2 tsp Allspice 
+1 tsp Cumin
+2 tsp Paprika
+1/2 tsp Cayenne 
+1/2 tsp Ground Green Cardamom 
+1 tsp Sumac (optional) 
+Salt and Black Pepper 
   
 ### Instructions
   1. Combine all into bowl. Season with salt and pepper

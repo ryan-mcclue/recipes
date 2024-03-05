@@ -34,6 +34,7 @@ global_ingredients = [
   common.Ingredient("paper-towels", 1, common.INGREDIENT_CAT.TOILETRIES),
   common.Ingredient("tissues", 1, common.INGREDIENT_CAT.TOILETRIES),
   common.Ingredient("toilet-paper", 1, common.INGREDIENT_CAT.TOILETRIES),
+  common.Ingredient("toilet-cleaner", 1, common.INGREDIENT_CAT.TOILETRIES),
   common.Ingredient("deoderant", 1, common.INGREDIENT_CAT.TOILETRIES),
   common.Ingredient("toothpaste", 1, common.INGREDIENT_CAT.TOILETRIES),
   common.Ingredient("dental-floss", 1, common.INGREDIENT_CAT.TOILETRIES),
@@ -250,7 +251,7 @@ def r():
   ingredients = {}
 
   # IMPORTANT: Seems cook meat first and remove. Then cook garlic and onion in oil and once fragrant add more veggies. Then meat back
-  recipes_list = [kung_pao.recipe, butter_chicken.recipe, bolognese.recipe, cottage_pie.recipe, kofta.recipe, chorizo_soup.recipe]
+  recipes_list = [kung_pao.recipe, butter_chicken.recipe, bolognese.recipe, cottage_pie.recipe, kofta.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

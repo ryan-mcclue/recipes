@@ -6,6 +6,7 @@ from recipes import *
 global_ingredients = [
   common.Ingredient("butter", 1, common.INGREDIENT_CAT.DAIRY), 
   common.Ingredient("olive-oil", 1, common.INGREDIENT_CAT.OTHER),
+  common.Ingredient("peanut-oil", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("salt", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("pepper", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("hummus", 1, common.INGREDIENT_CAT.OTHER),
@@ -17,6 +18,8 @@ global_ingredients = [
   common.Ingredient("bananas", 1, common.INGREDIENT_CAT.FRUIT_VEG),
   common.Ingredient("carrots", 1, common.INGREDIENT_CAT.FRUIT_VEG),
   common.Ingredient("dark-chocolate", 1, common.INGREDIENT_CAT.OTHER),
+  common.Ingredient("cling-wrap", 1, common.INGREDIENT_CAT.OTHER),
+  common.Ingredient("alfoil", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("vita-wheats", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("corn-chips", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("rolled-oats", 1, common.INGREDIENT_CAT.OTHER),
@@ -66,6 +69,8 @@ global_ingredients = [
   common.Ingredient("lime", 1, common.INGREDIENT_CAT.FRUIT_VEG),
   common.Ingredient("orange", 1, common.INGREDIENT_CAT.FRUIT_VEG),
   common.Ingredient("lemon", 1, common.INGREDIENT_CAT.FRUIT_VEG),
+  common.Ingredient("lemon-juice", 1, common.INGREDIENT_CAT.OTHER),
+  common.Ingredient("lime-juice", 1, common.INGREDIENT_CAT.OTHER),
 ]
 
 # tuscan_chicken = [

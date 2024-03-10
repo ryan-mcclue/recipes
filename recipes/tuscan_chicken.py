@@ -1,4 +1,28 @@
-<!-- SPDX-License-Identifier: zlib-acknowledgement -->
+from .common import *
+
+recipe = [
+  Ingredient("chicken-breast", 700, INGREDIENT_CAT.MEAT),
+  Ingredient("egg", 1, INGREDIENT_CAT.DAIRY),
+  Ingredient("oregano", 1, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("thyme", 0.5, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("paprika", 1.5, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("garlic-salt", 0.25, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("plain-flour", 3, INGREDIENT_CAT.OTHER),
+  Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("tin-tomatoes", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("sun-dried-tomatoes", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("red-capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("tomato-paste", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("white-wine", 90, INGREDIENT_CAT.ALCOHOL),
+  Ingredient("chicken-stock", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("double-cream", 90, INGREDIENT_CAT.DAIRY),
+  Ingredient("parmesan-cheese", 0.5, INGREDIENT_CAT.DAIRY),
+  Ingredient("baby-spinach", 120, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("fussili-pasta", 500, INGREDIENT_CAT.OTHER),
+]
+
+'''
 ## For the Chicken
     4 chicken breasts
     1 large egg
@@ -43,3 +67,4 @@
     13. Add the cream, parmesan and the spinach to the sauce and stir and cook for a couple of minutes until the spinach wilts.
     14. Remove the chicken from the oven. Check it's done (insert a knife into the fattest piece of one of the chicken breasts - it should no longer be pink) and place in the pan with the sauce and cook for another couple of minutes.
     15. Serve topped with a sprinkling of fresh parsley. Tastes great with pasta, courgetti (zoodles), rice or saute potatoes.
+'''

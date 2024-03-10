@@ -73,27 +73,6 @@ global_ingredients = [
   common.Ingredient("lime-juice", 1, common.INGREDIENT_CAT.OTHER),
 ]
 
-# tuscan_chicken = [
-#   Ingredient("chicken-breast", 700, INGREDIENT_CAT.MEAT),
-#   Ingredient("egg", 1, INGREDIENT_CAT.DAIRY),
-#   Ingredient("oregano", 1, INGREDIENT_CAT.CONDIMENT),
-#   Ingredient("thyme", 0.5, INGREDIENT_CAT.CONDIMENT),
-#   Ingredient("paprika", 1.5, INGREDIENT_CAT.CONDIMENT),
-#   Ingredient("garlic-salt", 0.25, INGREDIENT_CAT.CONDIMENT),
-#   Ingredient("plain-flour", 3, INGREDIENT_CAT.OTHER),
-#   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("tin-tomatoes", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("red-capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("tomato-paste", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("white-wine", 90, INGREDIENT_CAT.ALCOHOL),
-#   Ingredient("chicken-stock", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("double-cream", 90, INGREDIENT_CAT.DAIRY),
-#   Ingredient("parmesan-cheese", 0.5, INGREDIENT_CAT.DAIRY),
-#   Ingredient("baby-spinach", 120, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("fresh-parsley", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("fussili-pasta", 500, INGREDIENT_CAT.OTHER),
-# ]
 # 
 # 
 # beef_chow_fun = [
@@ -255,8 +234,10 @@ def r():
 
   ingredients = {}
 
-  # IMPORTANT: Seems cook meat first and remove. Then cook garlic and onion in oil and once fragrant add more veggies. Then meat back
-  recipes_list = [kung_pao.recipe, butter_chicken.recipe, bolognese.recipe, cottage_pie.recipe, kofta.recipe]
+  # IMPORTANT(Ryan): To brown mince, just leave on one side till it browns. then move around?
+
+  # tandoori
+  recipes_list = [teriyaki_chicken.recipe, chicken_korma.recipe, beef_burger.recipe, tuscan_chicken.recipe, chilli_con_carne.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

@@ -62,7 +62,7 @@ lemon (1),
 
 **MEAT**:
 chicken-breast (2100), 
-beef-mince (1300), 
+beef-mince (1000), 
 
 **MEDICINAL**:
 panadol (1), 

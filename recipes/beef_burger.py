@@ -1,7 +1,7 @@
 from .common import *
 
 recipe = [
-  Ingredient("beef-mince", 800, INGREDIENT_CAT.MEAT),
+  Ingredient("beef-mince", 500, INGREDIENT_CAT.MEAT),
   Ingredient("mayonnaise", 0.5, INGREDIENT_CAT.OTHER),
   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("iceberg-lettuce", 1, INGREDIENT_CAT.FRUIT_VEG),

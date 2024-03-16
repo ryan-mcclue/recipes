@@ -7,8 +7,10 @@ global_ingredients = [
   common.Ingredient("butter", 1, common.INGREDIENT_CAT.DAIRY), 
   common.Ingredient("olive-oil", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("peanut-oil", 1, common.INGREDIENT_CAT.OTHER),
-  common.Ingredient("salt", 1, common.INGREDIENT_CAT.OTHER),
-  common.Ingredient("pepper", 1, common.INGREDIENT_CAT.OTHER),
+  common.Ingredient("cracked-salt", 1, common.INGREDIENT_CAT.CONDIMENT),
+  common.Ingredient("cracked-pepper", 1, common.INGREDIENT_CAT.CONDIMENT),
+  common.Ingredient("ground-salt", 1, common.INGREDIENT_CAT.CONDIMENT),
+  common.Ingredient("ground-pepper", 1, common.INGREDIENT_CAT.CONDIMENT),
   common.Ingredient("hummus", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("peanut-butter", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("cheese-sticks", 1, common.INGREDIENT_CAT.DAIRY),
@@ -234,7 +236,8 @@ def r():
 
   ingredients = {}
 
-  # IMPORTANT(Ryan): To brown mince, just leave on one side till it browns. then move around?
+  # IMPORTANT(Ryan): curry (chapati, naan), pasta (garlic bread)
+  # for max. juiciness, seems to sear whole breast then bake. then slice lengthways and tear
 
   # tandoori
   recipes_list = [teriyaki_chicken.recipe, chicken_korma.recipe, beef_burger.recipe, tuscan_chicken.recipe, chilli_con_carne.recipe]

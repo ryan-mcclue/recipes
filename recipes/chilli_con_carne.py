@@ -11,8 +11,8 @@ recipe = [
   Ingredient("kidney-beans", 1, INGREDIENT_CAT.OTHER),
   Ingredient("beef-stock", 2, INGREDIENT_CAT.OTHER),
   Ingredient("cayenne-pepper", 1, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("paprika", 4, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("cumin", 5, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("paprika", 3, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("cumin", 3, INGREDIENT_CAT.CONDIMENT),
   Ingredient("garlic-powder", 2, INGREDIENT_CAT.CONDIMENT),
   Ingredient("onion-powder", 2, INGREDIENT_CAT.CONDIMENT),
   Ingredient("oregano", 2, INGREDIENT_CAT.CONDIMENT),
@@ -36,9 +36,9 @@ Ingredients
     Salt and pepper
 
 Chili Spice Mix:
-    1 - 2 tsp cayenne pepper (adjust to taste) (Note 2)
-    4 tsp paprika powder
-    5 tsp cumin powder
+    0.5tsp
+    3 tsp paprika powder
+    3 tsp cumin powder
     2 tsp garlic powder (or onion powder)
     2 tsp onion powder
     2 tsp oregano

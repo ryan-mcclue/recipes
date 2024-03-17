@@ -2,38 +2,46 @@ from .common import *
 
 recipe = [
   Ingredient("beef-mince", 500, INGREDIENT_CAT.MEAT),
-  Ingredient("mayonnaise", 0.5, INGREDIENT_CAT.OTHER),
-  Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("iceberg-lettuce", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("tomatoes", 4, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("beetroot", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("bread-rolls", 4, INGREDIENT_CAT.OTHER),
-  Ingredient("cheese-slices", 1, INGREDIENT_CAT.DAIRY),
-  Ingredient("worcestershire-sauce", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("red-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("fresh-parsley", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("carrot", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("square-crackers", 1, INGREDIENT_CAT.OTHER),
   Ingredient("dijon-mustard", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("egg", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("iceberg-lettuce", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("beetroot", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("pineapple-slices", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("bread-rolls", 4, INGREDIENT_CAT.OTHER),
 ]
 
 '''
-Ingredients:
-    1 1/2 pounds Certified Angus Beef ® ground beef, 80/20 lean
-    1/2 cup mayonnaise
-    1 tablespoon yellow mustard
-    1 tablespoon grated yellow onion
-    2 teaspoons hot sauce
-    1 teaspoon Worcestershire sauce
-    4 white hamburger buns
-    2 tablespoons butter, room temperature
-    1 1/2 teaspoons kosher salt
-    1/2 teaspoon pepper
-    4 slices American cheese
-    2 cups shredded iceburg lettuce
-    8 slices vine-ripe tomatoes
+
+Ingredients
+    12 Jacob's cream crackers
+    8 sprigs of fresh flat-leaf parsley
+    500 g quality minced beef
+    2 heaped tablespoons Dijon mustard , optional
+    1 large free-range egg
+    olive oil
+    1 cos or round lettuce
+    3 ripe tomatoes
+    1 red onion
+    3-4 gherkins
+    6 slices of Cheddar cheese , optional
+    6 quality burger buns
 
 Instructions:
-    Divide ground beef into 8 equal balls about the size of a ping-pong ball (3-ounces each); refrigerate.
-    In a small mixing bowl, whisk together mayonnaise, mustard, grated onion, hot sauce and Worcestershire to create a special sauce; refrigerate.
-    Using either a large cast iron griddle or 2 large cast iron pans heated to high, toast buns with butter; reserve to plates.
-    Space beef balls on hot cooking surface (parchment paper, spatula, meat tenderiser apply pressure downwards to smash as much as possible)
-    Season patties with 1-teaspoon of reserved special sauce per patty; salt and pepper. Sear 2-3 minutes or until some fat begins to bubble up in center of patty. Quickly flip and top 4 of the patties with a slice of cheese. Sear another minute and place a plain patty atop a cheese patty; remove from cooking surface.
-    Build burgers with a smear of special sauce on bottom bun followed by shredded lettuce, tomato, double burgers and top bun.
+    Wrap the crackers in a tea towel and smash up until fine, breaking up any big bits with your hands, then tip into a large bowl.
+    Finely chop the parsley (stalks and all), then add to the bowl with the mustard (if using), and the minced beef.
+    Crack the egg into the bowl, then add a good pinch of sea salt and black pepper.
+    With clean hands, scrunch and mix everything up well. Divide into 6 and pat and mould each piece into a roundish shape, roughly 2cm thick.
+    Place the burgers onto a plate, drizzle with oil, then cover and place in the fridge until needed – this will help to firm them up.
+    To cook the burgers, preheat a large griddle or frying pan for 4 minutes on a high heat, then turn the heat down to medium.
+    Place the burgers on the griddle or into the pan, then use a spatula to lightly press them down, making sure the burger is in full contact with the pan.
+    Cook the burgers for 3 or 4 minutes on each side, depending on how you like them – you may need to work in batches.
+    Meanwhile, wash and dry a few small lettuce leaves, tearing up the larger ones. Slice the tomatoes, peel and finely slice the red onion, then slice the gherkins lengthways as finely as you can.
+    Place all the veg toppings, and the cheese (if using) on a platter and put in the middle of the table with plates, cutlery, ketchup and drinks.
+    Once cooked, remove the burgers to a plate and carefully wipe the pan clean with a ball of kitchen paper.
+    Halve the burger buns and lightly toast them in the pan, then serve up.
+
 '''

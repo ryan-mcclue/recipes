@@ -239,8 +239,11 @@ def r():
   # IMPORTANT(Ryan): curry (chapati, naan), pasta (garlic bread)
   # for max. juiciness, seems to sear whole breast then bake. then slice lengthways and tear
 
+  # TODO(Ryan): youtube chef jack ovens
+  # katsu curry
+
   # tandoori
-  recipes_list = [teriyaki_chicken.recipe, chicken_korma.recipe, beef_burger.recipe, tuscan_chicken.recipe, chilli_con_carne.recipe]
+  recipes_list = [pesto_chicken.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:
@@ -248,8 +251,8 @@ def r():
       else:
         ingredients[ingredient.name] = ingredient
 
-  for ingredient in global_ingredients:
-    ingredients[ingredient.name] = ingredient 
+  #for ingredient in global_ingredients:
+  #  ingredients[ingredient.name] = ingredient 
 
   sorted_ingredients = dict(sorted(ingredients.items(), key=lambda i: i[1].category.name))
 

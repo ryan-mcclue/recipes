@@ -2,51 +2,56 @@ from .common import *
 
 recipe = [
   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("garlic", 6, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("brown/chestnut-mushrooms", 300, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("chicken-breast", 750, INGREDIENT_CAT.MEAT),
-  Ingredient("coconut-oil", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("cumin", 3, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("coriander", 2, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("cloves", 0.5, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("smoked-paprika", 2, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("tumeric", 2, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("cardamom-pods", 4, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("chicken-stock", 0.75, INGREDIENT_CAT.OTHER),
-  Ingredient("coconut-milk", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("white-rice", 500, INGREDIENT_CAT.OTHER),
+  Ingredient("garlic-powder", 1, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("onion-powder", 1, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("sweet-paprika", 1, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("dijon-mustard", 1.5, INGREDIENT_CAT.OTHER),
+  Ingredient("flour", 1.75, INGREDIENT_CAT.OTHER),
+  Ingredient("worcestershire-sauce", 1.5, INGREDIENT_CAT.OTHER),
+  Ingredient("sour-cream", 120, INGREDIENT_CAT.DAIRY),
+  Ingredient("pasta", 500, INGREDIENT_CAT.OTHER),
 ]
 '''
 Ingredients
-1 - Brown (Yellow) Onion, Sliced 
-4 - Garlic Cloves, Minced
-25g (0.8oz) - Ginger, Peeled & Minced 
-2 Tbsp (50g) + 1 tsp (10g) - Coconut Oil or Olive Oil
-750g (1.6lbs) - Chicken Thigh 
-3 tsp (7g) - Ground Cumin
-2 tsp (3g) - Ground Coriander 
-1/2 tsp (1.5g) - Ground Cloves 
-2 tsp (6g) - Smoked Paprika 
-2 tsp (5g) - Ground Turmeric 
-4 - Cardamom Pods
-3/4 Cups (180ml) - Chicken Stock or Vegetable Stock
-12g (0.4oz) - Desiccated Coconut (Optional)
-2 Cups (500ml) - Coconut Milk
-Seasoning To Taste
+Chicken & Seasoning - 
 
+1 tsp (5ml) - Olive Oil 
+2 - Large Chicken Breasts, Butterflied & Halved
+1 tsp (2.5g) - Onion Powder  
+1 tsp (2.5g) - Garlic Powder
+1 tsp (2.5g) - Sweet Paprika 
+Salt & Pepper
 
+Stroganoff Sauce & Pasta -
+
+2 Tbsp (28g) - Unsalted Butter (Split Into 2 Tbsp + 2 Tbsp)
+1 - Brown (Yellow) Onion, Diced
+6 - Garlic Cloves, Minced
+300g (10.5oz) - Swiss Brown Mushrooms, Thinly Sliced
+⅓ Cup (80ml) - White Wine or Chicken Stock 
+1 1/2 Tbsp (30g) - Dijon Mustard
+1 ½ Cups (375ml) - Chicken Stock
+1 ¾ Tbsp (24g) - Plain Flour
+1 1/2 Tbsp (30ml) - Worcestershire Sauce
+120g (4.2oz) - Sour Cream
+Flat Leaf Parsley, Garnish 
+Seasoning To Taste + Salt For Pasta Water
 
 Instructions
-  1. Cut chicken into pieces. 
-     Add sliced onion, garlic, coconut oil, salt, pepper and mix.
-     Cover and marinate for at least 30minutes.
-  2. Take out chicken, reserving onion, garlic, ginger.
-     Cook chicken with coconut oil (let it melt).
-  3. Remove chicken and add reserved ingredients.
-     Once soft, add cumin, coriander, cloves, smoked-paprika, tumeric, cardamom-pods
-  4. Add chicken stock and simmer for 1minute
-  5. Add coconut milk and simmer.
-  6. Reintroduce chicken and simmer for 20minutes.
-
-(could put kaffir lime leaves and salt in rice cooker water?)
+  1. Butterfly chicken.
+     Add garlic powder, onion powder, sweet paprika, salt and pepper.
+     Mix with 1tsp of olive oil.
+     Sear 2-3minute each and remove.
+  2. Add some butter. Soften onion and garlic.
+  3. Add mushrooms and salt+pepper for 6minutes.
+  4. Add dijon mustard for 30sec.
+  5. Deglaze with white wine (or chicken stock) and boil to reduce.
+  6. Add flour and mix. 
+  7. Add chicken stock and worcestershire sauce. 
+     Boil and simmer for 10minutes.
+  8. Add sour cream
+  9. Cut chicken. Then add back in.
 '''

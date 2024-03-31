@@ -8,12 +8,13 @@ recipe = [
   Ingredient("coconut-oil", 2, INGREDIENT_CAT.OTHER),
   Ingredient("cumin", 3, INGREDIENT_CAT.CONDIMENT),
   Ingredient("coriander", 2, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("cloves", 0.5, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("cloves", 0.25, INGREDIENT_CAT.CONDIMENT),
   Ingredient("smoked-paprika", 2, INGREDIENT_CAT.CONDIMENT),
   Ingredient("tumeric", 2, INGREDIENT_CAT.CONDIMENT),
   Ingredient("cardamom-pods", 4, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("chicken-stock", 0.75, INGREDIENT_CAT.OTHER),
-  Ingredient("coconut-milk", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("chicken-stock", 1.75, INGREDIENT_CAT.OTHER),
+  Ingredient("coconut-milk", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("potato", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("white-rice", 500, INGREDIENT_CAT.OTHER),
 ]
 '''

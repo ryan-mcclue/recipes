@@ -1,24 +1,33 @@
 
 **CONDIMENT**:
-onion-powder (2), 
-garlic-powder (2), 
+cumin (3), 
+coriander (2), 
+cloves (0.5), 
+smoked-paprika (2), 
+tumeric (2), 
+cardamom-pods (4), 
+garlic-powder (1), 
+onion-powder (1), 
+sweet-paprika (1), 
 
 **DAIRY**:
-parmesan (30), 
+sour-cream (120), 
 
 **FRUIT_VEG**:
-garlic (3), 
-lemon (1), 
-fresh-basil (60), 
-capsicum (1), 
-squash (1), 
-zuchinni (1), 
-red-onion (1), 
+brown-onion (2), 
+garlic (10), 
+ginger (1), 
+brown/chestnut-mushrooms (300), 
 
 **MEAT**:
-chicken-breast (750), 
+chicken-breast (1500), 
 
 **OTHER**:
-fettucine-pasta (500), 
-pine-nuts (30), 
-penne-pasta (500), 
+coconut-oil (2), 
+chicken-stock (0.75), 
+coconut-milk (2), 
+white-rice (500), 
+dijon-mustard (1.5), 
+flour (1.75), 
+worcestershire-sauce (1.5), 
+pasta (500), 

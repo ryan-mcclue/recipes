@@ -6,6 +6,7 @@ from recipes import *
 global_ingredients = [
   common.Ingredient("butter", 1, common.INGREDIENT_CAT.DAIRY), 
   common.Ingredient("olive-oil", 1, common.INGREDIENT_CAT.OTHER),
+  common.Ingredient("wool-wash", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("peanut-oil", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("cracked-salt", 1, common.INGREDIENT_CAT.CONDIMENT),
   common.Ingredient("cracked-pepper", 1, common.INGREDIENT_CAT.CONDIMENT),
@@ -243,7 +244,7 @@ def r():
   # katsu curry
 
   # tandoori
-  recipes_list = [pesto_chicken.recipe]
+  recipes_list = [lankan_curry.recipe, chicken_stroganoff.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

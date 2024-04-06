@@ -244,7 +244,7 @@ def r():
   # katsu curry
 
   # tandoori
-  recipes_list = [lankan_curry.recipe, chicken_stroganoff.recipe]
+  recipes_list = [chicken_tacos.recipe, mongolian_chicken.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

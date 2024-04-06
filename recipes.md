@@ -1,33 +1,36 @@
 
 **CONDIMENT**:
-cumin (3), 
-coriander (2), 
-cloves (0.5), 
-smoked-paprika (2), 
-tumeric (2), 
-cardamom-pods (4), 
-garlic-powder (1), 
 onion-powder (1), 
-sweet-paprika (1), 
-
-**DAIRY**:
-sour-cream (120), 
+garlic-powder (1), 
+paprika (1), 
+cumin (1), 
+oregano (1), 
+cayenne-pepper (1), 
 
 **FRUIT_VEG**:
+red-onion (1), 
 brown-onion (2), 
-garlic (10), 
+garlic (6), 
+lime (2), 
+avocado (2), 
+cherry-tomatoes (1), 
 ginger (1), 
-brown/chestnut-mushrooms (300), 
+spring-onion (12), 
+capsicum (1), 
+carrot (1), 
+snow-peas (1), 
 
 **MEAT**:
-chicken-breast (1500), 
+chicken-breast (1300), 
 
 **OTHER**:
-coconut-oil (2), 
-chicken-stock (0.75), 
-coconut-milk (2), 
-white-rice (500), 
-dijon-mustard (1.5), 
-flour (1.75), 
-worcestershire-sauce (1.5), 
-pasta (500), 
+tortillas (1), 
+soy-sauce (1.5), 
+dark-soy-sauce (1), 
+chinese-cooking-wine (3.5), 
+baking-soda (1), 
+corn-flour (4), 
+chicken-stock (0.5), 
+oyster-sauce (3), 
+brown-sugar (2), 
+hokkien-noodles (500), 

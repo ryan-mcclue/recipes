@@ -17,7 +17,7 @@ recipe = [
   Ingredient("spring-onion", 12, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("carrot", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("snow-peas", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("snap-peas", 1, INGREDIENT_CAT.FRUIT_VEG),
 ]
 
 '''

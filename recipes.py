@@ -9,7 +9,8 @@ global_ingredients = [
   common.Ingredient("wool-wash", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("peanut-oil", 1, common.INGREDIENT_CAT.OTHER),
   common.Ingredient("cracked-salt", 1, common.INGREDIENT_CAT.CONDIMENT),
-  common.Ingredient("cracked-pepper", 1, common.INGREDIENT_CAT.CONDIMENT),
+  common.Ingredient("cracked-black-pepper", 1, common.INGREDIENT_CAT.CONDIMENT),
+  common.Ingredient("white-pepper", 1, common.INGREDIENT_CAT.CONDIMENT),
   common.Ingredient("ground-salt", 1, common.INGREDIENT_CAT.CONDIMENT),
   common.Ingredient("ground-pepper", 1, common.INGREDIENT_CAT.CONDIMENT),
   common.Ingredient("hummus", 1, common.INGREDIENT_CAT.OTHER),
@@ -243,8 +244,7 @@ def r():
   # TODO(Ryan): youtube chef jack ovens
   # katsu curry
 
-  # tandoori
-  recipes_list = [chicken_tacos.recipe, mongolian_chicken.recipe]
+  recipes_list = [aloo_chicken.recipe, meatballs.recipe, tandoori_chicken.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

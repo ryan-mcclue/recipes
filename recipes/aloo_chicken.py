@@ -1,7 +1,7 @@
 from .common import *
 
 recipe = [
-  Ingredient("chicken-breast", 1000, INGREDIENT_CAT.MEAT),
+  Ingredient("chicken-thigh", 1000, INGREDIENT_CAT.MEAT),
   Ingredient("cumin-seeds", 1.5, INGREDIENT_CAT.CONDIMENT),
   Ingredient("fenugreek-leaves", 2, INGREDIENT_CAT.CONDIMENT),
   Ingredient("garam-masala", 1.5, INGREDIENT_CAT.CONDIMENT),

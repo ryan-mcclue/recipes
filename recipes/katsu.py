@@ -56,13 +56,13 @@ Curry Sauce -
 2 - Small Carrots, Peeled & Sliced 
 3 - Garlic Cloves, Sliced 
 5g - Ginger, Peeled & Thinly Sliced 
-2 Tbsp - Curry Powder 
+2 Tbsp - Curry Powder  (less curry powder)
 1/2 tsp - Red Chilli Powder  
 2 Tbsp - Plain (All Purpose Flour) 
 1 Tbsp - Soy Sauce 
 1 tsp - Rice Vinegar 
 500ml (2 Cups) - Chicken Stock
-1 Tbsp - Honey 
+1 Tbsp - Honey (less honey)
 Seasoning To Taste 
 
 Rice - 

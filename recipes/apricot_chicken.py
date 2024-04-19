@@ -51,9 +51,9 @@ Salt & Pepper
 
 Apricot Sauce - 
 
-1 Cup (250ml) - Apricot Nectar 
+1 Cup (250ml) - Apricot Nectar  (serve with tinned apricots?)
 2 - Garlic Cloves, Minced 
-2 1/2 Tbsp (50ml) - Low Sodium Soy Sauce 
+2 1/2 Tbsp (50ml) - Low Sodium Soy Sauce  (less soy sauce)
 1 1/2 Tbsp (20g) - Light Brown Sugar (Optional)
 1 Tbsp (12g) - Corn Flour 
 Seasoning To Taste 

@@ -244,7 +244,7 @@ def r():
   # TODO(Ryan): youtube chef jack ovens
   # katsu curry
 
-  recipes_list = [aloo_chicken.recipe, meatballs.recipe, tandoori_chicken.recipe]
+  recipes_list = [apricot_chicken.recipe, katsu.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

@@ -37,7 +37,7 @@ Meatballs -
 2-3 Tbsp (40-60ml) - Olive Oil
 500g (1.1lbs) - Beef Mince 
 500g (1.1lbs) - Pork Mince 
-50g - grated cheese
+50g - grated cheese (less cheese!)
 2 - Whole Eggs
 2 - Garlic Cloves, Crushed & Chopped
 1 Cup (100g) - Fine Breadcrumbs 

@@ -270,6 +270,8 @@ def r():
   # for max. juiciness, seems to sear whole breast then bake. then slice lengthways and tear
 
   # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
+  # dumpling soup?
+  # baked beans + breakfast burrito?
 
   # chicken-paprikash, sticky-meatballs, kung-pao, enchilada-soup
   recipes_list = [apricot_chicken.recipe, katsu.recipe]

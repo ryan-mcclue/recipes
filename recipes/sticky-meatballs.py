@@ -1,18 +1,21 @@
 from .common import *
 
 recipe = [
-  Ingredient("beef-mince", 500, INGREDIENT_CAT.MEAT),
-  Ingredient("pork-mince", 500, INGREDIENT_CAT.MEAT),
+  Ingredient("beef-mince", 1000, INGREDIENT_CAT.MEAT),
   Ingredient("egg", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("garlic", 8, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("breadcrumbs", 100, INGREDIENT_CAT.OTHER),
-  Ingredient("beef-stock", 0.5, INGREDIENT_CAT.OTHER),
-  Ingredient("fresh-parsley", 5, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("fresh-basil", 15, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("tinned-tomatoes", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("chilli-flakes", 1, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("percorino-romano", 50, INGREDIENT_CAT.DAIRY),
-  Ingredient("spaghetti", 400, INGREDIENT_CAT.OTHER),
+  Ingredient("panko-breadcrumbs", 50, INGREDIENT_CAT.OTHER),
+  Ingredient("ketchup", 3, INGREDIENT_CAT.OTHER),
+  Ingredient("garlic-powder", 2, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("onion-powder", 2, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("oregano", 1, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("thyme", 1, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("sriracha", 120, INGREDIENT_CAT.OTHER),
+  Ingredient("low-soy-sauce", 60, INGREDIENT_CAT.OTHER),
+  Ingredient("apple-cider-vinegar", 30, INGREDIENT_CAT.OTHER),
+  Ingredient("honey", 3, INGREDIENT_CAT.OTHER),
+  Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("white-rice", 400, INGREDIENT_CAT.OTHER),
 ]
 
 '''

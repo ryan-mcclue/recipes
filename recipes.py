@@ -207,21 +207,6 @@ global_ingredients = [
 #   Ingredient("green-beans", 200, INGREDIENT_CAT.FRUIT_VEG),
 # ]
 # 
-# hot_breakfast = [
-#   Ingredient("cannellini-beans", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("tin-tomatoes", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("dark-brown-sugar", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("egg", 12, INGREDIENT_CAT.DAIRY),
-#   Ingredient("avocado", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("mushrooms", 500, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("red-wine-vinegar", 100, INGREDIENT_CAT.OTHER),
-#   Ingredient("tomato-paste", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("thyme", 0.5, INGREDIENT_CAT.CONDIMENT),
-#   Ingredient("smoked-paprika", 0.5, INGREDIENT_CAT.CONDIMENT),
-#   Ingredient("chilli-flakes", 0.5, INGREDIENT_CAT.CONDIMENT),
-#   Ingredient("bread", 1, INGREDIENT_CAT.OTHER),
-# ]
 
 # stir fry
   # CHICKEN
@@ -273,8 +258,7 @@ def r():
   # dumpling soup?
   # baked beans + breakfast burrito?
 
-  # chicken-paprikash, sticky-meatballs, kung-pao, enchilada-soup
-  recipes_list = [apricot_chicken.recipe, katsu.recipe]
+  recipes_list = [chicken_paprikash.recipe, sticky_meatballs.recipe, enchilada_soup.recipe, breakfast_beans.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

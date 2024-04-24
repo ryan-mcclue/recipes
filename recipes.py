@@ -224,12 +224,40 @@ global_ingredients = [
 # ]
 
 # stir fry
+  # CHICKEN
+  # kung pao
+  # teriyaki
+  # BEEF
 # curry
+  #
+  #
+  #
+  #
 # pasta
+  # CHICKEN
+  # paprikash
+  # pesto
+  # stroganoff 
+  # BEEF
+  # bolognese
+  # meatballs
 # meat and veg
-# e.g. (spiced rice and meat)
+  # CHICKEN
+  # apricot
+  # jollof
+  # BEEF
+  # meatballs
 # wraps/sandwiches 
+  # CHICKEN
+  # fajita
+  # tandoori
+  # BEEF
+  # kofta
+  # burger
 # soup/pies
+  # CHICKEN
+  # BEEF
+  # enchilada
 # pizza
 
 
@@ -241,9 +269,9 @@ def r():
   # IMPORTANT(Ryan): curry (chapati, naan), pasta (garlic bread)
   # for max. juiciness, seems to sear whole breast then bake. then slice lengthways and tear
 
-  # TODO(Ryan): youtube chef jack ovens
-  # katsu curry
+  # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
 
+  # chicken-paprikash, sticky-meatballs, kung-pao, enchilada-soup
   recipes_list = [apricot_chicken.recipe, katsu.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:

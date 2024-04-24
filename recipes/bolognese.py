@@ -1,5 +1,13 @@
 from .common import *
 
+# 5g fresh oregano, rosemary, basil
+# 2 minced garlic
+
+# cook pancetta
+# add grated carrot, onion, celery and soften
+# add garlic, rosemary and oregano
+# brown meat etc.
+
 recipe = [
   Ingredient("beef-mince", 500, INGREDIENT_CAT.MEAT),
   Ingredient("fettucine-pasta", 500, INGREDIENT_CAT.OTHER),

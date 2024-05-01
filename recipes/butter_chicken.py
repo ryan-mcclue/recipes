@@ -1,7 +1,8 @@
 from .common import *
 
 recipe = [
-  Ingredient("chicken-breast", 700, INGREDIENT_CAT.MEAT),
+  Ingredient("boneless-skinless-chicken-thigh", 100, INGREDIENT_CAT.MEAT),
+
   Ingredient("natural-yogurt", 80, INGREDIENT_CAT.DAIRY),
   Ingredient("lemon-juice", 1, INGREDIENT_CAT.OTHER),
   Ingredient("naan-bread", 1, INGREDIENT_CAT.OTHER),
@@ -24,6 +25,10 @@ recipe = [
 ]
 
 '''
+
+
+
+
 MARINADE:
 700 g (25oz) chicken breast - approx. 4 large chicken breasts, diced
 80 ml (⅓ cup) natural yogurt

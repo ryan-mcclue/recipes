@@ -1,8 +1,8 @@
 from .common import *
 
 recipe = [
-  Ingredient("chicken-breast", 700, INGREDIENT_CAT.MEAT),
-  Ingredient("soy-sauce", 1.5, INGREDIENT_CAT.OTHER),
+  Ingredient("scotch-chuck-steak", 600, INGREDIENT_CAT.MEAT),
+  Ingredient("light-soy-sauce", 5, INGREDIENT_CAT.OTHER),
   Ingredient("dark-soy-sauce", 1, INGREDIENT_CAT.OTHER),
   Ingredient("chinese-cooking-wine", 3.5, INGREDIENT_CAT.OTHER),
   Ingredient("baking-soda", 1, INGREDIENT_CAT.OTHER),
@@ -13,7 +13,7 @@ recipe = [
   Ingredient("chicken-stock", 0.5, INGREDIENT_CAT.OTHER),
   Ingredient("oyster-sauce", 3, INGREDIENT_CAT.OTHER),
   Ingredient("brown-sugar", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("hokkien-noodles", 500, INGREDIENT_CAT.OTHER),
+  Ingredient("hokkien-noodles", 600, INGREDIENT_CAT.OTHER),
   Ingredient("spring-onion", 12, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("carrot", 1, INGREDIENT_CAT.FRUIT_VEG),

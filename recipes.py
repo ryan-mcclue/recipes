@@ -213,11 +213,13 @@ global_ingredients = [
   # kung pao
   # teriyaki
   # BEEF
+  # mongolian beef 
 # curry
-  #
-  #
-  #
-  #
+  # CHICKEN
+  # butter chicken
+  # aloo gobi
+  # BEEF
+  #  
 # pasta
   # CHICKEN
   # paprikash
@@ -225,13 +227,13 @@ global_ingredients = [
   # stroganoff 
   # BEEF
   # bolognese
-  # meatballs
+  # tomato meatballs
 # meat and veg
   # CHICKEN
   # apricot
   # jollof
   # BEEF
-  # meatballs
+  # sticky meatballs
 # wraps/sandwiches 
   # CHICKEN
   # fajita
@@ -239,10 +241,9 @@ global_ingredients = [
   # BEEF
   # kofta
   # burger
-# soup/pies
+# soup/pastry
   # CHICKEN
   # BEEF
-  # enchilada
 # pizza
 
 

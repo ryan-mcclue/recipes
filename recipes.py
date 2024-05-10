@@ -259,7 +259,7 @@ def r():
   # dumpling soup?
   # baked beans + breakfast burrito?
 
-  recipes_list = [kung_pao.recipe, chicken_paprikash.recipe, sticky_meatballs.recipe, enchilada_soup.recipe, breakfast_beans.recipe]
+  recipes_list = [breakfast_beans.recipe, tandoori_rice.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:
@@ -267,8 +267,8 @@ def r():
       else:
         ingredients[ingredient.name] = ingredient
 
-  for ingredient in global_ingredients:
-    ingredients[ingredient.name] = ingredient 
+  #for ingredient in global_ingredients:
+  #  ingredients[ingredient.name] = ingredient 
 
   sorted_ingredients = dict(sorted(ingredients.items(), key=lambda i: i[1].category.name))
 

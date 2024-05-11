@@ -9,7 +9,7 @@ recipe = [
   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("potato", 1000, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("fresh-rosemary", 0.5, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("fresh-rosemary", 0.5, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("smoked-paprika", 0.5, INGREDIENT_CAT.CONDIMENT),
   Ingredient("chilli-flakes", 0.5, INGREDIENT_CAT.CONDIMENT),
   Ingredient("thyme", 0.5, INGREDIENT_CAT.CONDIMENT),

@@ -1,6 +1,5 @@
 
 **CONDIMENT**:
-fresh-rosemary (0.5), 
 smoked-paprika (0.5), 
 chilli-flakes (0.5), 
 thyme (0.5), 
@@ -18,6 +17,7 @@ greek-yoghurt (420),
 brown-onion (2), 
 potato (1000), 
 garlic (6), 
+fresh-rosemary (0.5), 
 red-onion (1), 
 capsicum (2), 
 ginger (1), 

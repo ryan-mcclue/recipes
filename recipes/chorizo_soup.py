@@ -54,4 +54,31 @@ recipe = [
   4. Add chicken broth, beans, tomatoes, thyme, bay leaf, paprika and flakes.
   5. Boil, then simmer for 30min
   6. Add vinegar, parsley. Serve with parmesan
+
+
+slice 5 garlic, juliene 2 onion and 2 red capsicum and fry until soft
+
+slice 2 chorizo links diagonally
+add for 5 minutes.
+
+add chilli and couple of bay leafs.
+stir for 5 minutes
+
+dice 2 fresh tomatoes
+add 1 tbsp of smoked paprika and tomatoes
+
+add 1kg of chopped potatoes
+(salt and pepper to season)
+
+add a thyme sprig leaves
+some drops of red wine vinegar
+
+add 1L chicken stock
+simmer for 30minutes
+
+------------------------------
+italian sausage (casings removed)
+https://www.youtube.com/watch?v=0XUJnWlbMUI
 '''
+
+

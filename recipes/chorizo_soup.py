@@ -65,7 +65,7 @@ add chilli and couple of bay leafs.
 stir for 5 minutes
 
 dice 2 fresh tomatoes
-add 1 tbsp of smoked paprika and tomatoes
+add 1/2tsp smoked paprika, 1/2tbsp sweet paprika and tomatoes
 
 add 1kg of chopped potatoes
 (salt and pepper to season)

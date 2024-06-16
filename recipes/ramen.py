@@ -5,24 +5,25 @@ recipe = [
   Ingredient("unsweetened-soy-milk", 500, INGREDIENT_CAT.OTHER),
   Ingredient("instant-ramen-noodles", 4, INGREDIENT_CAT.OTHER),
   Ingredient("bok-choy", 4, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("chicken-mince", 500, INGREDIENT_CAT.MEAT),
-  Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("chicken-mince", 1000, INGREDIENT_CAT.MEAT),
+  Ingredient("garlic", 5, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("spring-onion", 6, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("gochujang", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("spring-onion", 2, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("gochujang", 4, INGREDIENT_CAT.OTHER),
   Ingredient("soy-sauce", 3, INGREDIENT_CAT.OTHER),
   Ingredient("crispy-chilli-oil", 2, INGREDIENT_CAT.OTHER),
   Ingredient("white-vinegar", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("asian-sesame-paste", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("tahini", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("egg", 4, INGREDIENT_CAT.DAIRY),
 ] 
 '''
 1. Simmer chicken stock and soy milk while doing other steps.
 2. Mince ginger and garlic. Slice spring onion.
    Stir fry chicken mince till evenly coloured (leaving on one side to caramelise a bit)
-   Add ginger, garlic, spring onion and gochujang. Mix
-   Drizzle soy sauce.
+   Add ginger, garlic, spring onion and 4tbsp gochujang. Mix
+   Add 2tbsp soy sauce.
    Reduce heat and simmer for 3-4minutes.
-3. Mix sesame paste, crispy chilli oil, vinegar and soy sauce in a bowl.
+3. Mix tahini, crispy chilli oil, vinegar and 2tbsp soy sauce in a bowl.
    Distribute dollops in serving bowls
 4. Cook noodles. Add to serving bowls
 5. Half bok choy.

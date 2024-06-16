@@ -1,40 +1,19 @@
 
-**CONDIMENT**:
-smoked-paprika (0.5), 
-chilli-flakes (0.5), 
-thyme (0.5), 
-garam-masala (2), 
-cumin (3), 
-chilli-powder (1), 
-sweet-paprika (1.5), 
-tumeric (3), 
-coriander (1.5), 
-
-**DAIRY**:
-greek-yoghurt (420), 
-
 **FRUIT_VEG**:
-brown-onion (2), 
-potato (1000), 
-garlic (6), 
-fresh-rosemary (0.5), 
-red-onion (1), 
-capsicum (2), 
+bok-choy (4), 
+garlic (4), 
 ginger (1), 
-lime (2), 
-cucumber (1), 
-fresh-coriander (1), 
-fresh-mint (1), 
+spring-onion (6), 
 
 **MEAT**:
-chicken-breast (1200), 
+chicken-mince (500), 
 
 **OTHER**:
-cannellini-beans (2), 
-tin-tomatoes (2), 
-dark-brown-sugar (2), 
-red-wine-vinegar (2), 
-tomato-paste (2), 
-basmati-rice (320), 
-chicken-stock (640), 
-bay-leaf (3), 
+chicken-stock (1500), 
+unsweetened-soy-milk (500), 
+instant-ramen-noodles (4), 
+gochujang (2), 
+soy-sauce (3), 
+crispy-chilli-oil (2), 
+white-vinegar (2), 
+asian-sesame-paste (1), 

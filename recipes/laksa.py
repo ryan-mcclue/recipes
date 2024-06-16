@@ -4,15 +4,19 @@ recipe = [
   Ingredient("thai-red-curry-paste", 2, INGREDIENT_CAT.OTHER),
   Ingredient("curry-powder", 2, INGREDIENT_CAT.OTHER),
   Ingredient("boneless-skinless-chicken-thigh", 800, INGREDIENT_CAT.MEAT),
+  Ingredient("soft-tofu", 500, INGREDIENT_CAT.OTHER),
   Ingredient("coconut-milk", 400, INGREDIENT_CAT.OTHER),
   Ingredient("chicken-stock", 1000, INGREDIENT_CAT.OTHER),
-  Ingredient("tofu-puffs", 12, INGREDIENT_CAT.OTHER),
   Ingredient("fish-sauce", 2, INGREDIENT_CAT.OTHER),
   Ingredient("sugar", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("vermicilli-noodles", 800, INGREDIENT_CAT.OTHER),
-  Ingredient("bean-sprouts", 200, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("vermicilli-noodles", 400, INGREDIENT_CAT.OTHER),
+  Ingredient("spring-onion", 2, INGREDIENT_CAT.FRUIT_VEG),
 ] 
 '''
+Soft tofu. Cut into large cubes. Freeze.
+Dethaw. Then pat down cubes to squeeze out water.
+Cut into serving cubes. Air fry 150deg. 30minutes.
+
 1. Heat oil. Stir in curry paste until fragrant.
    Stir curry powder for a bit.
    Add chicken and stir fry.
@@ -23,7 +27,7 @@ recipe = [
 3. Add fish sauce, sugar, and salt
 4. To serve, scoop out protein onto noodles. 
    Then add broth.
-   Then add bean sprouts
+   Then add spring onion
 
 Ingredients
 2 tbsp vegetable oil

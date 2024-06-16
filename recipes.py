@@ -259,7 +259,7 @@ def r():
   # dumpling soup?
   # baked beans + breakfast burrito?
 
-  recipes_list = [breakfast_beans.recipe, tandoori_rice.recipe]
+  recipes_list = [ramen.recipe]
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

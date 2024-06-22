@@ -210,40 +210,42 @@ global_ingredients = [
 
 # stir fry
   # CHICKEN
-  # kung pao
-  # teriyaki
+    # kung pao
+    # teriyaki
   # BEEF
-  # mongolian beef 
+    # mongolian beef 
 # curry
   # CHICKEN
-  # butter chicken
-  # aloo gobi
+    # butter chicken
   # BEEF
-  #  
+    #  
 # pasta
   # CHICKEN
-  # paprikash
-  # pesto
-  # stroganoff 
+    # pesto
+    # stroganoff 
   # BEEF
-  # bolognese
-  # tomato meatballs
+    # bolognese
+    # tomato meatballs
 # meat and veg
   # CHICKEN
-  # apricot
-  # jollof
+    # apricot
+    # french onion
   # BEEF
-  # sticky meatballs
+    # sticky meatballs
+    # cottage pie
 # wraps/sandwiches 
   # CHICKEN
-  # fajita
-  # tandoori
+    # fajita
+    # tandoori
   # BEEF
-  # kofta
-  # burger
+    # kofta
+    # burger
 # soup/pastry
   # CHICKEN
+    # ramen
+    # laksa
   # BEEF
+    # chorizo
 # pizza
 
 

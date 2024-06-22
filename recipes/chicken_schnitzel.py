@@ -1,5 +1,9 @@
 from .common import *
 
+# the faster you transfer heat, i.e. remove moisture from food, the crispier it becomes
+# air fryer same principle as convection oven, however transfers air heat faster
+# air frying chicken crumb: https://www.youtube.com/watch?v=2wtKG4ostaU&list=PLm4CTm39B2cX0E5hDw2hEkVijn9n5n7uh&index=59
+
 recipe = [
   Ingredient("chicken-breast", 700, INGREDIENT_CAT.MEAT),
   Ingredient("panko-breadcrumbs", 2, INGREDIENT_CAT.OTHER),

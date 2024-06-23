@@ -213,7 +213,8 @@ global_ingredients = [
     # kung pao
     # teriyaki
   # BEEF
-    # mongolian beef 
+    # mongolian beef / black pepper
+    # korean beef
 # curry
   # CHICKEN
     # butter chicken
@@ -246,6 +247,7 @@ global_ingredients = [
     # laksa
   # BEEF
     # chorizo
+    # sausage
 # pizza
 
 

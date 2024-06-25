@@ -18,4 +18,18 @@ for passive (typically get higher PSI)
    2. Can quick release with a button mechanism (may release water, so remove from hot plate)
    3. Run cold water over lid.
       When hear final hiss, know ready.
+      (only applicable for stove top ones)
+
+Cooking time of 15minutes is 15minutes after reaches pressure
+
+generally don't brown meat before. if do, will have to add more water
+(often water is from ingredients themselves)
+
+
+CONVERTING:
+- there is less evaporation, so more liquid will be there
+- cannot cook veg and meat at same time (different densities)
+  so, how to handle different cooking times?
+- don't add diary or will curdle (same with coconut milk). add at end
+  alcohol won't evaporate
 '''

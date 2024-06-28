@@ -16,7 +16,6 @@
 5. Cook tubeti pasta in separate pot
    Serve pasta then top with broth.
 
-'''
     10 cups Chicken Broth
     1 1/2 cups French Green Lentils
     1 lb. Hot Italian Pork Sausage, casings removed
@@ -30,3 +29,5 @@
     1 cup Tubeti
     Extra Virgin Olive Oil
     Salt, to taste
+
+'''

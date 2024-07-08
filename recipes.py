@@ -213,13 +213,15 @@ global_ingredients = [
     # kung pao
     # teriyaki
   # BEEF
-    # mongolian beef / black pepper
+    # honey vinegar beef
     # korean beef
 # curry
   # CHICKEN
-    # butter chicken
+    # thai green
+    # korma
   # BEEF
-    #  
+    # rogan josh 
+    # rendang 
 # pasta
   # CHICKEN
     # pesto

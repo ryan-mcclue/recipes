@@ -22,7 +22,7 @@ brocolli, onion, capsicum, rump, garlic
 The Sauce
 ½ tablespoon dark soy sauce
 3 tablespoons tomato ketchup
-6 tablespoons Chinkiang black rice vinegar
+6 tablespoons Chinkiang black rice vinegar (1heaped tsp balsamic + 1heaped tsp soy)
 4 tablespoons honey
 
 Marinade

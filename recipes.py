@@ -218,7 +218,7 @@ global_ingredients = [
 # curry
   # CHICKEN
     # thai green
-    # korma
+    # butter chicken
   # BEEF
     # rogan josh 
     # rendang 
@@ -232,9 +232,9 @@ global_ingredients = [
 # meat and veg
   # CHICKEN
     # apricot
-    # french onion
+    # schnitzel
   # BEEF
-    # sticky meatballs
+    # chilli con carne
     # cottage pie
 # wraps/sandwiches 
   # CHICKEN

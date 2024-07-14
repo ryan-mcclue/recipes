@@ -15,6 +15,7 @@ recipe = [
   Ingredient("chicken-stock", 1, INGREDIENT_CAT.OTHER),
   Ingredient("fresh-parsley", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("lemon", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("apricot-slices", 1, INGREDIENT_CAT.FRUIT_VEG),
 ]
 
 '''

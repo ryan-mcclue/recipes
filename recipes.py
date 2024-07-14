@@ -263,9 +263,9 @@ def r():
 
   # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
   # dumpling soup?
-  # baked beans + breakfast burrito?
 
-  recipes_list = [mongolian_beef.recipe]
+  recipes_list = [korean_beef.recipe, butter_chicken.recipe, chilli_con_carne.recipe, sausage_soup.recipe, apricot_chicken.recipe]
+
   for recipe in recipes_list:
     for ingredient in recipe:
       if ingredients.get(ingredient.name, None) is not None:

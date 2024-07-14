@@ -1,11 +1,12 @@
 from .common import *
 
 recipe = [
-  Ingredient("rice-wine", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("chinese-wine", 2, INGREDIENT_CAT.OTHER),
   Ingredient("white-pepper", 0.25, INGREDIENT_CAT.OTHER),
   Ingredient("dark-soy-sauce", 4, INGREDIENT_CAT.OTHER),
   Ingredient("hoisin-sauce", 3, INGREDIENT_CAT.OTHER),
   Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("brown-sugar", 1, INGREDIENT_CAT.OTHER),
   Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("chicken-breast", 700, INGREDIENT_CAT.MEAT),
@@ -14,18 +15,55 @@ recipe = [
   Ingredient("red-capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("yellow-capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("zucchini", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("carrot", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("spring-onion", 12, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("cashew", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("white-rice", 500, INGREDIENT_CAT.OTHER),
+  Ingredient("jasmine-rice", 500, INGREDIENT_CAT.OTHER),
 ] 
 '''
-1. Mix the marinade ingredients in a bowl.
-2. Place the chopped chicken in a separate bowl and mix with the cornflour/cornstarch,
-3. Then stir in ⅓ of the marinade ingredients into the chicken. Cover and refrigerate for 30 minutes (or up to 12 hours). NOTE: Reserve the remaining ⅔rds of the marinade for the sauce.
-4. Heat your wok or frying pan over a medium heat and add the whole chilli peppers. Dry cook for a couple of minutes – turning regularly until the chillies go darker in colour. NOTE: They burn quite quickly, so keep a close eye on them. Remove from the pan when they’ve darkened and gone a little softer.
-5. Add the oil to your work, heat on a high heat and then add the chicken (using a slotted spoon to remove from the marinade). Fry until cooked through – about 7-8 minutes.
-6. Add in the red peppers, courgette/zucchini and spring onions/scallions. Cook for a further 2-3 minutes until heated through, but still crunchy.
-7. Add in the reserved ⅔rds of the marinade and the chillies and cook until the sauce thickens slightly – about 2 minutes.
-8. If you’d prefer the sauce to thicken even more, you can mix a tbsp. of cornflour/cornstarch with a couple of tbsp. of cold water, then pour this mix in whilst stirring. The sauce will thicken very quickly.
-9. Add in the peanuts (or cashews) just before serving, and give them a quick stir. Serve over boiled rice (with a large glass of water if you intend to eat those chillies!)
+1. Chop vegetables
+(reserve some of the spring onion green part to cut for garnish)
+2. Mince garlic and ginger.
+   Combine with 2tbsp wine, 4tbsp dark soy, 3tbsp hoisin, 1 tsp sesame, 1tbsp brown sugar.
+3. Dice chicken and coat with cornflour.
+   Stir in 0.3 of marinade. 
+   Cover and refrigerate for 30minutes
+4. Stir fry chicken. Remove
+5. Stir fry vegetables.
+6. Add in reserved 0.6 of marinade and spring onions for a couple of minutes.
+7. Add in the peanuts (or cashews) just before serving, 
+(could toast peanuts?)
+
+Ingredients - 
+
+Chicken & Marinade - 
+
+1.2kg (2.6lb) - Chicken Thigh, Diced 
+1/2 Cup (125ml) - Low Sodium Soy Sauce 
+2 Tbsp (40ml) - Shaoxing Wine 
+3 Tbsp (60ml) - Hoisin Sauce 
+1 1/2 tsp (15ml) - Sesame Oil 
+2 tsp (9g) - Granulate Sugar (Optional) 
+4 - Garlic Cloves, Grated
+15g (0.5oz) - Ginger, Grated
+1 1/2 Tbsp (12g) - Cornflour 
+1 tsp (2g) - Szechuan Pepper, Ground  
+Pinch Ground White Pepper 
+
+Stir Fry Ingredients - 
+
+2 Tbsp (40ml) - Peanut Oil
+1 - Small Red Bell Pepper (Capsicum), Chopped
+1 - Small Green Bell Pepper (Capsicum), Chopped
+8 - Spring Onions (Scallions), White Root, Chopped (Green Stem Used As Garnish)
+1-2 - Long Red Chillies, Thinly Sliced 
+1/2 Cup (50g) - Roasted Peanuts, Roughly Chopped 
+Ground White Pepper To Taste 
+
+Jasmine Rice - 
+
+300g (10.5oz) - Jasmine Rice, Washed
+500g (500ml) - Cold Water 
+Salt To Taste 
+Aromatics (Optional)
 '''

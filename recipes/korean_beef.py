@@ -14,7 +14,6 @@ recipe = [
   Ingredient("dark-soy-sauce", 0.5, INGREDIENT_CAT.OTHER),
   Ingredient("brown-sugar", 2, INGREDIENT_CAT.OTHER),
   Ingredient("rice-vinegar", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("oyster-sauce", 3, INGREDIENT_CAT.OTHER),
   Ingredient("beef-stock", 3, INGREDIENT_CAT.OTHER),
   Ingredient("gochujang", 2, INGREDIENT_CAT.OTHER),
   Ingredient("baking-soda", 0.5, INGREDIENT_CAT.OTHER),
@@ -55,9 +54,9 @@ Marinade:
 2 tsp cornflour (cornstarch)
 
 Stir-fry sauce:
-3 tbsp oyster sauce
+3 tbsp oyster sauce (remove; add 1tsp sesame oil)
 3 tbsp beef stock
-2 tbsp soy sauce
+2 tbsp soy sauce (2tbsp light soy sauce)
 ½ tsp dark soy sauce
 2 tsp sugar
 2 tsp white vinegar

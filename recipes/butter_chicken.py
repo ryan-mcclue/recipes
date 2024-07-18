@@ -41,7 +41,9 @@ Ingredients
     1 pound Boneless Skinless Chicken Thighs (or use breast, bone-in, or whatever works for you. If frozen, add 1-2 minutes to total time)
     To finish
     5tbsp ounces butter cut into cubes (use coconut oil if dairy free)
+    (4tbsp; better to use 2tbsp)
     5tbsp ounces Heavy Cream (use full-fat coconut milk if dairy free)
+    (1cup; better to use 1/2cup)
     1 teaspoon Garam Masala
     1/4-1/2 cup chopped cilantro
 

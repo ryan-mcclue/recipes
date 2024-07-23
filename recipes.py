@@ -234,7 +234,7 @@ global_ingredients = [
     # apricot
     # schnitzel
   # BEEF
-    # chilli con carne
+    # beef nachos
     # cottage pie
 # wraps/sandwiches 
   # CHICKEN
@@ -248,8 +248,8 @@ global_ingredients = [
     # ramen
     # laksa
   # BEEF
-    # chorizo
-    # sausage
+    # beef noodle
+    # Vietnamese Bo Kho Recipe (https://www.youtube.com/watch?v=Sx-4j2rDJJ0)
 # pizza
 
 
@@ -264,7 +264,7 @@ def r():
   # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
   # dumpling soup?
 
-  recipes_list = [korean_beef.recipe, butter_chicken.recipe, chilli_con_carne.recipe, sausage_soup.recipe, apricot_chicken.recipe]
+  recipes_list = [rendang.recipe, teriyaki_chicken.recipe, beef_noodle.recipe, tandoori_chicken.recipe, bolognese.recipe]
 
   for recipe in recipes_list:
     for ingredient in recipe:
@@ -273,8 +273,8 @@ def r():
       else:
         ingredients[ingredient.name] = ingredient
 
-  #for ingredient in global_ingredients:
-  #  ingredients[ingredient.name] = ingredient 
+  for ingredient in global_ingredients:
+    ingredients[ingredient.name] = ingredient 
 
   sorted_ingredients = dict(sorted(ingredients.items(), key=lambda i: i[1].category.name))
 

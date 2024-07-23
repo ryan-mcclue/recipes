@@ -15,6 +15,7 @@ recipe = [
   Ingredient("cauliflower", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("frozen-peas", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("jasmine-rice", 500, INGREDIENT_CAT.OTHER),
+  Ingredient("naan", 1, INGREDIENT_CAT.OTHER),
 ]
 
 '''

@@ -6,6 +6,8 @@ recipe = [
   Ingredient("carrot", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("brocollini", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("asparagus", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("white-pepper", 1, INGREDIENT_CAT.OTHER),
   Ingredient("chicken-breast", 700, INGREDIENT_CAT.MEAT),
   Ingredient("cornflour", 2, INGREDIENT_CAT.OTHER),
@@ -24,7 +26,7 @@ recipe = [
 3. Combine teriyaki ingredients.
    Heat on high until boiling, stirring to cook sugar.
    Then simmer on low heat for 5 minutes  
-   Marinade chicken in it.
+   Marinade chicken in it with minced garlic and ginger.
 4. Stir fry chicken. 
    Keep still for a few minutes to char. 
    Then move around for 3 minutes and remove.

@@ -5,8 +5,8 @@ recipe = [
   Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("rendang-paste", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("chuck-steak", 500, INGREDIENT_CAT.MEAT),
-  Ingredient("coconut-milk", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("chuck-steak", 700, INGREDIENT_CAT.MEAT),
+  Ingredient("coconut-milk", 270, INGREDIENT_CAT.OTHER),
   Ingredient("coconut-oil", 1, INGREDIENT_CAT.OTHER),
   Ingredient("basmati-rice", 500, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("sweet-potato", 2, INGREDIENT_CAT.FRUIT_VEG),
@@ -18,11 +18,11 @@ recipe = [
    When coconut oil is hot, saute.
 2. Add rendang paste, stirring for 3-4minutes
 3. Add steak and coat for 2minutes.
-4. Add 1/4cup water and thorougly deglaze 
+4. Add 1/2cup water and thorougly deglaze 
    (pot won't pressure if any burned bits)
-5. Add another 1/4cup water and 1/2cup coconut milk.
+5. Add 1/2 of coconut milk.
 6. High pressure for 25minutes. 10 minutes rest
-7. Add remaining 1/2cup coconut milk and serve.
+7. Add remaining coconut milk and serve.
 
 Ingredients
     1 cup Onion chopped

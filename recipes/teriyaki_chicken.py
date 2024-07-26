@@ -23,7 +23,8 @@ recipe = [
    Coat with 2 heaped tsp of corn flour and white pepper.
 3. Combine teriyaki ingredients.
    Heat on high until boiling, stirring to cook sugar.
-   Then cook on low heat for 5 minutes  
+   Then simmer on low heat for 5 minutes  
+   Marinade chicken in it.
 4. Stir fry chicken. 
    Keep still for a few minutes to char. 
    Then move around for 3 minutes and remove.

@@ -12,12 +12,6 @@ recipe = [
   Ingredient("smoked-paprika", 1, INGREDIENT_CAT.CONDIMENT),
   Ingredient("tumeric", 1, INGREDIENT_CAT.CONDIMENT),
   Ingredient("lemon", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("egg", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("white-vinegar", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("dijon-mustard", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("peanut-oil", 180, INGREDIENT_CAT.OTHER),
-  Ingredient("fresh-dill", 15, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("fresh-parsley", 10, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("turkish-bread", 1, INGREDIENT_CAT.OTHER),
   Ingredient("avocado", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("red-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
@@ -26,6 +20,12 @@ recipe = [
 ]
 
 '''
+cut slices on chicken before marinating, and mix into cuts
+traditional just kashmiri, tumeric, oil and salt?
+turn chicken twice on each side (2-3 minutes each side)
+
+mint yoghurt:https://www.recipetineats.com/oven-baked-tandoori-chicken/#wprm-recipe-container-24972 
+
 1. Mix tandoori seasoning in bowl.
    Mix in butterflied chicken breast.
    Marinate for at least 30 minutes.

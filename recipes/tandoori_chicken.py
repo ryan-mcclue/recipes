@@ -29,7 +29,12 @@ recipe = [
 1. Mix tandoori seasoning in bowl.
    Mix in butterflied chicken breast.
    Marinate for at least 30 minutes.
-2. Blend mayonnaise ingredients (add herbs after first blend). (REQUIRES IMMERSION BLENDER!)
+2. IMPORTANT: use jar from immersion blender and on high setting to ensure emulsification
+   Add egg, vinegar, salt, mustard and herbs.
+   Add oil last.
+   Let settle for a minute.
+   Keep immersion blender firmly on bottom for 10-15seconds until mayonnaise reaches top.
+   Then move blender up and down to combine.
 3. Sear chicken for 3-4minutes per side.
    Rest to let juices redistribute.
 3. Cut turkish bread in half and oil the sides.

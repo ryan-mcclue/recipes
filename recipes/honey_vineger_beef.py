@@ -1,23 +1,38 @@
-#!/usr/bin/python3
-# SPDX-License-Identifier: zlib-acknowledgement
+from .common import *
+
+recipe = [
+  Ingredient("rump-steak", 700, INGREDIENT_CAT.MEAT),
+  Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("chilli", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("brocolli", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("coriander", 20, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("cornflour", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("peanut-oil", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("jasmine-rice", 500, INGREDIENT_CAT.OTHER),
+  Ingredient("dark-soy-sauce", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("tomato-ketchup", 3, INGREDIENT_CAT.OTHER),
+  Ingredient("chinkiang-vinegar", 6, INGREDIENT_CAT.OTHER),
+  Ingredient("honey", 4, INGREDIENT_CAT.OTHER),
+  Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("light-soy-sauce", 1, INGREDIENT_CAT.OTHER),
+]
 
 '''
-brocolli, onion, capsicum, rump, garlic
-
-1. Roast 3 garlic cloves at 180C for 20min
-2. Mix beef with marinade.
-   Coat with cornflour seasoned with salt and pepper.
-   Ensure all beef strips are separated.
-3. Dice thumb ginger, roasted garlic, chilli and 20g coriander (stems and leaves)
-4. Add sauce ingredients in bowl
-5. Spray beef with some oil.
-   200C for 5 minutes.
-   Take out and spray again.
-   200C for another 5 minutes.
-6. Stir fry ginger, garlic, chilli breifly.
+1. Take garlic clove and cut top off.
+   Drizzle with olive oil and salt.
+   Wrap in foil and put in oven at 200deg for 30min.
+2. NOTE: easier to cut chunk in half to get really thin. 
+   Mix beef with 2tsp cornflour.
+   Add marinade.
+3. Dice thumb ginger, chilli and 20g coriander (stems and leaves) into bowl.
+4. Add sauce ingredients in bowl and add roasted garlic.
+5. Stir fry beef. Remove.
+6. Stir fry vegetables.
+7. Stir fry ginger, coriander and chilli breifly.
    Pour over sauce and bring to boil.
-   Add meat.
-7. Top servings with coriander
+8. Combine meat
 
 The Sauce
 ½ tablespoon dark soy sauce
@@ -29,5 +44,4 @@ Marinade
 ½ tablespoon sesame oil
 1 teaspoon sugar
 2 tablespoons light soy sauce
-1 egg
 '''

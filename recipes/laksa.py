@@ -11,7 +11,7 @@ recipe = [
   Ingredient("sugar", 1, INGREDIENT_CAT.OTHER),
   Ingredient("bok-choy", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("spray-oil", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("vermicilli-noodles", 400, INGREDIENT_CAT.OTHER),
+  Ingredient("ramen-noodles-pack", 1, INGREDIENT_CAT.OTHER),
   Ingredient("spring-onion", 2, INGREDIENT_CAT.FRUIT_VEG),
 ] 
 '''

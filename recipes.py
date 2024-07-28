@@ -250,6 +250,7 @@ global_ingredients = [
   # BEEF
     # beef noodle
     # spanish chorizo
+    # beef udon: https://www.youtube.com/watch?v=wS0FDrkKY2I&list=PLvF-uMjWdYl0kcFqrGYtIUTHpyVAEsaLi 
 # pizza
 
 
@@ -264,9 +265,7 @@ def r():
   # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
   # dumpling soup?
 
-  # laksa, pesto, beef burger, spaghetti meatballs
-
-  recipes_list = [rendang.recipe, teriyaki_chicken.recipe, beef_noodle.recipe, tandoori_chicken.recipe, bolognese.recipe]
+  recipes_list = [laksa.recipe, pesto_chicken.recipe, beef_burger.recipe, honey_vinegar_beef.recipe]
 
   for recipe in recipes_list:
     for ingredient in recipe:

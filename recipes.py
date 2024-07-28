@@ -249,7 +249,7 @@ global_ingredients = [
     # laksa
   # BEEF
     # beef noodle
-    # Vietnamese Bo Kho Recipe (https://www.youtube.com/watch?v=Sx-4j2rDJJ0)
+    # spanish chorizo
 # pizza
 
 
@@ -263,6 +263,8 @@ def r():
 
   # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
   # dumpling soup?
+
+  # laksa, pesto, beef burger, spaghetti meatballs
 
   recipes_list = [rendang.recipe, teriyaki_chicken.recipe, beef_noodle.recipe, tandoori_chicken.recipe, bolognese.recipe]
 

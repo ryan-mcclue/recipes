@@ -44,4 +44,11 @@ Ingredients:
     5 cups of water
     1 herb packet (cinnamon, fennel, ginger, cumin, clove)
     1 star anise
+
+1 cinnamon stick
+2 bay leaves
+1tbsp fennel seeds
+1tbsp cumin seeds
+1tbsp sichuan peppercorn
+toast on pan for a few minutes. place in spice bag.
 '''

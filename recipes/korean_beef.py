@@ -8,6 +8,7 @@ recipe = [
   Ingredient("kimchi", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("spring-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("sesame-seeds", 1, INGREDIENT_CAT.OTHER),
   Ingredient("capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("snow-peas", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("soy-sauce", 4, INGREDIENT_CAT.OTHER),

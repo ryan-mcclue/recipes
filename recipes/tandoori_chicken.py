@@ -23,6 +23,7 @@ recipe = [
 cut slices on chicken before marinating, and mix into cuts
 traditional just kashmiri, tumeric, oil and salt?
 turn chicken twice on each side (2-3 minutes each side)
+NOTE: charring is expected and wanted
 
 mint yoghurt:https://www.recipetineats.com/oven-baked-tandoori-chicken/#wprm-recipe-container-24972 
 

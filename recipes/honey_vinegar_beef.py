@@ -1,7 +1,7 @@
 from .common import *
 
 recipe = [
-  Ingredient("rump-steak", 700, INGREDIENT_CAT.MEAT),
+  Ingredient("sirloin/porterhouse/rump-steak", 700, INGREDIENT_CAT.MEAT),
   Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("chilli", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),

@@ -1,7 +1,11 @@
 from .common import *
 
 recipe = [
-  Ingredient("sirloin/porterhouse/rump-steak", 700, INGREDIENT_CAT.MEAT),
+  # eye fillet most expensive; too tender for stir fry
+  # scotch tender expensive
+  # sirloin/porterhouse less expensive
+  # rump cheapest and toughest
+  Ingredient("scotch/sirloin/porterhouse/rump-steak", 700, INGREDIENT_CAT.MEAT),
   Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("chilli", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),

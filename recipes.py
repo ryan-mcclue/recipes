@@ -247,10 +247,20 @@ global_ingredients = [
   # CHICKEN
     # ramen
     # laksa
+    # https://twosleevers.com/chicken-tortellini-soup/
   # BEEF
     # beef noodle
     # spanish chorizo
     # beef udon: https://www.youtube.com/watch?v=wS0FDrkKY2I&list=PLvF-uMjWdYl0kcFqrGYtIUTHpyVAEsaLi 
+# stew
+  # CHICKEN
+    # https://twosleevers.com/jamaican-chicken-curry/
+    # https://twosleevers.com/ethiopian-chicken-stew/
+    # https://twosleevers.com/instant-pot-japanese-chicken-curry/
+  # BEEF
+    # https://twosleevers.com/easy-beef-daube/
+    # https://twosleevers.com/hungarian-goulash/
+    # lamb tagine: https://www.youtube.com/watch?v=jkWbi4-aH8w
 # pizza
 
 

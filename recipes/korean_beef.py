@@ -26,7 +26,6 @@ recipe = [
 '''
 1. Slice beef horizontally against grain
    Mix with marinade
-
 2. Stir fry onion chunks and garlic breifly.
    Beef in wok. Keep still for a minute on maximim surface area.
    Then toss and combine
@@ -43,7 +42,6 @@ Ingredients
 ½ cup shredded carrot
 ½ cup sliced kimchi
 2 spring onions (scallions), cut into batons
-1 tsp sesame oil
 sesame seeds to serve
 steamed rice to serve
 
@@ -55,10 +53,10 @@ Marinade:
 2 tsp cornflour (cornstarch)
 
 Stir-fry sauce:
-3 tbsp oyster sauce (remove; add 1tsp sesame oil)
 3 tbsp beef stock
-2 tbsp soy sauce (2tbsp light soy sauce)
+2 tbsp light soy sauce 
 ½ tsp dark soy sauce
+1 tsp sesame oil
 2 tsp sugar
 2 tsp white vinegar
 '''

@@ -18,19 +18,21 @@ recipe = [
 ]
 
 '''
-1. Add whole chicken, stock-veggies, fresh thyme, fresh parsley and whole peppercorns into pot.
-   Fill with water as high as possible and simmer for 1-2hours
-2. Dice vegetables.
-   Saute onions alone.
-   Then add rest of vegetables and garlic and mix until hot.
-3. Remove chicken from stock. 
-   Strain stock
-4. Add stock to vegetables.
-   While coming to a simmer, add grated lemongrass, ginger and parsley.
-5. Peel chicken into eadible chunks.
-   Add to simmering pot with salt and pepper.
-   Leave for 15-20minutes.
-6. Top with minced spring onion for 1 minute at end
+Instructions
+    Add all ingredients except for the tortellini to the Instant Pot and cook under high pressure for 10 minutes.
+    Naturally release the pressure for 10 minutes and then quickly release all remaining pressure. and then add the tortellini.
+    Cook under high pressure for 2 minutes.
+    Quick release the pressure, stir, and serve!
 
-could serve with thick egg noodles, by ladling out soup and cooking noodles in that water
+Ingredients
+    1/2 pound chicken breasts (500g)
+    1/2 cup diced onion
+    1/2 cup diced carrots
+    1/2 cup diced celery
+    32 oz Chicken Broth (1L)
+    19 oz Cheese Tortellini (500g)
+    1 tsp Dried Oregano
+    1 tsp Garlic Powder
+    1/2 tsp Kosher Salt
+    1/4 tsp Ground Black Pepper
 '''

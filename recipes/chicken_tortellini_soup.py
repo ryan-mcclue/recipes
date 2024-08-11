@@ -1,5 +1,9 @@
 from .common import *
 
+# (more stock, less tortellini, add zuchinni)
+# https://twosleevers.com/chicken-tortellini-soup/ 
+
+
 recipe = [
   Ingredient("whole-chicken", 1, INGREDIENT_CAT.MEAT),
   Ingredient("brown-onion", 3, INGREDIENT_CAT.FRUIT_VEG),

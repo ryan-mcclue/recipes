@@ -15,7 +15,7 @@ recipe = [
 
 '''
 1. Saute ginger and garlic in oil.
-2. Add chicken, vegetables and water.
+2. Add diced chicken, large cut vegetables and water.
 3. Place curry paste blocks on top (to prevent scorching)
 4. High pressure for 7minutes
 5. Add coconut milk 

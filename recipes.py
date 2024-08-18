@@ -262,7 +262,7 @@ global_ingredients = [
     # https://twosleevers.com/ethiopian-chicken-stew/
   # BEEF
     # https://twosleevers.com/easy-beef-daube/
-    # https://twosleevers.com/hungarian-goulash/
+    #   https://twosleevers.com/hungarian-goulash/
     # lamb tagine: https://www.youtube.com/watch?v=jkWbi4-aH8w
 # pizza
 

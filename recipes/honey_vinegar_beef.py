@@ -7,7 +7,7 @@ recipe = [
   # rump cheapest and toughest
   Ingredient("scotch/sirloin/porterhouse/rump-steak", 700, INGREDIENT_CAT.MEAT),
   Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("sambal-olek", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("chilli-jam", 1, INGREDIENT_CAT.OTHER),
   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("brocolli", 1, INGREDIENT_CAT.FRUIT_VEG),

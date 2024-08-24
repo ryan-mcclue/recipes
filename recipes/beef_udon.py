@@ -6,6 +6,7 @@ recipe = [
   Ingredient("light-soy-sauce", 4, INGREDIENT_CAT.OTHER),
   Ingredient("soy-sauce", 4, INGREDIENT_CAT.OTHER),
   Ingredient("dashi-stock", 4, INGREDIENT_CAT.OTHER),
+  Ingredient("sambal-olek", 1, INGREDIENT_CAT.OTHER),
   Ingredient("udon-noodles", 400, INGREDIENT_CAT.OTHER),
   Ingredient("sake", 2, INGREDIENT_CAT.OTHER),
   Ingredient("mirin", 2, INGREDIENT_CAT.OTHER),

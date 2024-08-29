@@ -219,7 +219,6 @@ global_ingredients = [
   # CHICKEN
     # thai green
     # butter chicken
-    # https://twosleevers.com/instant-pot-japanese-chicken-curry/
   # BEEF
     # rogan josh 
     # rendang 
@@ -234,11 +233,9 @@ global_ingredients = [
   # CHICKEN
     # apricot
     # schnitzel
-    # adobo https://twosleevers.com/instant-pot-chicken-adobo/
   # BEEF
     # beef nachos (jalapenos)
     # cottage pie
-    # https://twosleevers.com/ethiopian-beef-stew/
 # wraps/sandwiches 
   # CHICKEN
     # fajita
@@ -252,18 +249,25 @@ global_ingredients = [
     # laksa
     # tortellini
   # BEEF
-    # beef noodle
-    # spanish chorizo
     # beef udon: https://www.youtube.com/watch?v=wS0FDrkKY2I&list=PLvF-uMjWdYl0kcFqrGYtIUTHpyVAEsaLi 
-    # https://twosleevers.com/russian-borscht/
+    # dashi beef
 # stew
   # CHICKEN
     # https://twosleevers.com/jamaican-chicken-curry/
-    # https://twosleevers.com/ethiopian-chicken-stew/
+    # https://twosleevers.com/instant-pot-japanese-chicken-curry/ (use breast meat)
   # BEEF
-    # https://twosleevers.com/easy-beef-daube/
+    # https://twosleevers.com/hungarian-goulash/ (needs sour cream mixed in)
     # lamb tagine: https://www.youtube.com/watch?v=jkWbi4-aH8w
 # pizza
+# 
+# barbeque
+  # BEEF
+    # skewer 
+    # sirloin 
+  # CHICKEN
+    # skewer
+    # chicken
+
 
 
 def r():

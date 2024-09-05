@@ -1,22 +1,22 @@
 from .common import *
 
 recipe = [
-  Ingredient("lamb-shank", 1000, INGREDIENT_CAT.MEAT),
+  Ingredient("lamb-steak", 500, INGREDIENT_CAT.MEAT),
   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("cinnamon-stick", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("honey", 3, INGREDIENT_CAT.OTHER),
   Ingredient("almond-flakes", 1, INGREDIENT_CAT.OTHER),
   Ingredient("sesame-seeds", 1, INGREDIENT_CAT.OTHER),
   Ingredient("crusty-bread", 1, INGREDIENT_CAT.OTHER),
-  Ingredient("ginger-powder", 1.5, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("cinnamon", 1.5, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("tumeric", 0.5, INGREDIENT_CAT.CONDIMENT),
-  Ingredient("ras-el-hanout", 0.5, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("cinnamon", 0.5, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("tumeric", 0.25, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("ginger", 0.25, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("ras-el-hanout", 2, INGREDIENT_CAT.CONDIMENT),
   Ingredient("saffron", 0.25, INGREDIENT_CAT.CONDIMENT),
   Ingredient("fresh-parsley", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("fresh-coriander", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("prunes", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("pitted-prunes", 1, INGREDIENT_CAT.FRUIT_VEG),
 ]
 
 '''
@@ -48,15 +48,16 @@ For Garnish: ⁣⁣
 Toasted Sesame Seeds⁣⁣
 
 Steps:
-1. Saute lamb pieces (require boning knife), diced onion, spices, salt and oil for 5minutes.
-2. Add saffron water and minced garlic for 1minute.
-3. Add parsely and coriander bouquet.
-4. Add hot water to just cover meat.
-5. High pressure for 40minutes. Natural release 10minutes.
-6. Soak prunes in hot water for 30minutes and drain.
-7. Remove meat and bouquet. Take 1/2cup coooking liquid.
-8. Add prunes, reserved cooking liquid, butter, cinnamon, honey, 1/2cup hot water.
+Soak prunes in hot water for 30minutes and drain.
+1. Saute onion and garlic. 
+   Toast 2Tbsp ras-el-hanout, salt, pepper (could add 1/4tsp of tumeric and ginger powder)
+   Add lamb pieces, 1/4cup of parsely and coriander combined.
+2. Add pinch of saffron with 1/4cup hot water.
+3. High pressure 15; natural release 10.
+4. Take 1/2cup cooking liquid.
+   Add 1.5cup prunes, 1tbsp butter, 1/2tsp cinnamon, 3Tbsp honey, 1/2cup hot water
+5. Add prunes, reserved cooking liquid, butter, cinnamon, honey, 1/2cup hot water.
    Bring to boil and simmer until soft.
-9. Serve lamb and top with sauce, prunes (could coat in toasted sesame seeds) and toasted almonds.
+6. Serve lamb and top with sauce, prunes (could coat in toasted sesame seeds) and toasted almonds.
    Eat with crusty bread.
 '''

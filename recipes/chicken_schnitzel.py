@@ -12,12 +12,14 @@ recipe = [
   Ingredient("fresh-parsley", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("potato", 1000, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("salad-mix", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("cherry-tomatoes", 1, INGREDIENT_CAT.OTHER),
   Ingredient("creme-friache", 1, INGREDIENT_CAT.DAIRY),
   Ingredient("egg", 3, INGREDIENT_CAT.DAIRY),
   Ingredient("whole-gherkins", 1, INGREDIENT_CAT.OTHER),
   Ingredient("flour", 1, INGREDIENT_CAT.OTHER),
   Ingredient("soy-sauce", 1, INGREDIENT_CAT.OTHER),
   Ingredient("dijon-mustard", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("vegetable-oil", 100, INGREDIENT_CAT.OTHER),
 ]
 
 '''

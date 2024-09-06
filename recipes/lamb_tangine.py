@@ -54,8 +54,8 @@ Soak prunes in hot water for 30minutes and drain.
    Add lamb pieces, 1/4cup of parsely and coriander combined.
 2. Add pinch of saffron with 1/4cup hot water.
 3. High pressure 15; natural release 10.
-4. Take 1/2cup cooking liquid.
-   Add 1.5cup prunes, 1tbsp butter, 1/2tsp cinnamon, 3Tbsp honey, 1/2cup hot water
+4. Take 1/2cup cooking liquid (or just 1/2cup hot water)
+   Add 1cup prunes, 0.5Tbsp butter, 1/2tsp cinnamon, 2Tbsp honey, 1/2cup hot water
 5. Add prunes, reserved cooking liquid, butter, cinnamon, honey, 1/2cup hot water.
    Bring to boil and simmer until soft.
 6. Serve lamb and top with sauce, prunes (could coat in toasted sesame seeds) and toasted almonds.

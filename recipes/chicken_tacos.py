@@ -13,6 +13,7 @@ recipe = [
   Ingredient("lime", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("avocado", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("cherry-tomatoes", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("fresh-coriander", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("chicken-breast", 600, INGREDIENT_CAT.MEAT),
   Ingredient("tortillas", 1, INGREDIENT_CAT.OTHER),
 ]

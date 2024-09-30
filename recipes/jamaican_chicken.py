@@ -35,7 +35,7 @@ Steps:
   2. Add onion breifly.
   3. Add Jamaican curry powder, sliced chilli, thyme, salt and allspice and mix well.
   4. Deglaze with 1/3cup water if necessary and allow water to evaporate.
-  5. Add diced chicken, potato, and 1 cup of water.
-     Cook at high pressure for 9minutes. Natural release for 10. 
-  6. Serve with rice and brocolli.
+  5. Add chicken and 1/2 cup of water. Don't mix chicken in.
+     Cook at high pressure for 10minutes. Natural release for 10. 
+  6. Serve with rice, potato and brocolli.
 '''

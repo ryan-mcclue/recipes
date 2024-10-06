@@ -77,137 +77,6 @@ global_ingredients = [
   common.Ingredient("lime-juice", 1, common.INGREDIENT_CAT.OTHER),
 ]
 
-# 
-# 
-# beef_chow_fun = [
-#   Ingredient("light-soy-sauce", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("dark-soy-sauce", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("oyster-sauce", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("sesame-oil", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("brown-sugar", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("rice-vinegar", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("garlic", 3, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("white-pepper", 0.25, INGREDIENT_CAT.CONDIMENT),
-#   Ingredient("flank-steak", 500, INGREDIENT_CAT.MEAT),
-#   Ingredient("thin-rice-noodles", 200, INGREDIENT_CAT.OTHER),
-#   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("yellow-capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("bean-sprouts", 200, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("spring-onions", 4, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("baby-spinach", 60, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("red-chilli", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("sesame-seeds", 1, INGREDIENT_CAT.OTHER),
-# ]
-# 
-# 
-# chicken_pie = [
-#   Ingredient("puff-pastry", 2, "frozen"),
-#   Ingredient("chicken-breast", 500, INGREDIENT_CAT.MEAT),
-#   Ingredient("carrot", 3, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("potato", 3, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("fresh-thyme", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("plain-flour", 6, INGREDIENT_CAT.OTHER),
-#   Ingredient("milk", 300, INGREDIENT_CAT.DAIRY),
-#   Ingredient("egg", 1, INGREDIENT_CAT.DAIRY),
-#   Ingredient("lemon-juice", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("brocolli", 1, INGREDIENT_CAT.FRUIT_VEG),
-# ]
-# 
-# beef_stroganoff = [
-#   Ingredient("fillet-steak", 600, INGREDIENT_CAT.MEAT),
-#   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("mushroom", 300, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("plain-flour", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("beef-stock", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("dijon-mustard", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("sour-cream", 150, INGREDIENT_CAT.DAIRY),
-#   Ingredient("penne-pasta", 500, INGREDIENT_CAT.OTHER),
-#   Ingredient("fresh-chives", 1, INGREDIENT_CAT.FRUIT_VEG),
-# ]  
-# 
-# 
-# chicken_paprikash = [
-#   Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("tin-tomatoes", 400, INGREDIENT_CAT.OTHER),
-#   Ingredient("celery", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("chicken-breast", 500, INGREDIENT_CAT.MEAT),
-#   Ingredient("plain-flour", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("sweet-paprika", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("chicken-stock", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("sour-cream", 225, INGREDIENT_CAT.DAIRY),
-#   Ingredient("fussili-pasta", 500, INGREDIENT_CAT.OTHER),
-# ]
-# 
-# mee_goreng = [
-#   Ingredient("shallot", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("mushroom", 5, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("white-cabbage", 0.5, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("chicken-breast", 500, INGREDIENT_CAT.MEAT),
-#   Ingredient("thick-egg-noodles", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("bean-sprouts", 150, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("spring-onion", 6, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("red-chilli", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("sweet-soy-sauce", 4, INGREDIENT_CAT.OTHER),
-#   Ingredient("dark-soy-sauce", 3, INGREDIENT_CAT.OTHER),
-#   Ingredient("oyster-sauce", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("sweet-chilli-sauce", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("white-pepper", 0.25, INGREDIENT_CAT.OTHER),
-# ]  
-# 
-# black_pepper_beef = [
-#   Ingredient("black-peppercorns", 10, INGREDIENT_CAT.OTHER),
-#   Ingredient("sirloin", 450, INGREDIENT_CAT.MEAT),
-#   Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("brown-onion", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("red-capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("green-capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("cornflour", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("dark-soy-sauce", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("oyster-sauce", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("red-chilli", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("chinese-cooking-wine", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("beef-stock", 0.5, INGREDIENT_CAT.OTHER),
-#   Ingredient("garlic", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("white-rice", 500, INGREDIENT_CAT.OTHER),
-# ]
-# 
-# meatball_pasta_bake = [
-#   Ingredient("beef-mince", 500, INGREDIENT_CAT.MEAT),
-#   Ingredient("shallot", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("garlic", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("breadcrumbs", 60, INGREDIENT_CAT.OTHER),
-#   Ingredient("egg", 1, INGREDIENT_CAT.DAIRY),
-#   Ingredient("italian-herbs", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("tin-tomatoes", 400, INGREDIENT_CAT.OTHER),
-#   Ingredient("beef-stock", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("worcestershire-sauce", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("smoked-paprika", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("cheddar-cheese", 40, INGREDIENT_CAT.DAIRY),
-#   Ingredient("mozarella-cheese", 30, INGREDIENT_CAT.DAIRY),
-#   Ingredient("rigatoni-pasta", 500, INGREDIENT_CAT.OTHER),
-# ]
-# 
-# 
-# honey_garlic_chicken = [
-#   Ingredient("chicken-tenderloins", 500, INGREDIENT_CAT.MEAT),
-#   Ingredient("cornflour", 2, INGREDIENT_CAT.OTHER),
-#   Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("honey", 110, INGREDIENT_CAT.OTHER),
-#   Ingredient("chicken-stock", 0.5, INGREDIENT_CAT.OTHER),
-#   Ingredient("rice-vinegar", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("light-soy-sauce", 1, INGREDIENT_CAT.OTHER),
-#   Ingredient("white-rice", 500, INGREDIENT_CAT.OTHER),
-#   Ingredient("brocolli", 1, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("carrot", 2, INGREDIENT_CAT.FRUIT_VEG),
-#   Ingredient("green-beans", 200, INGREDIENT_CAT.FRUIT_VEG),
-# ]
-# 
-
 # stir fry
   # CHICKEN
     # kung pao
@@ -250,7 +119,7 @@ global_ingredients = [
     # tortellini
   # BEEF
     # beef udon: https://www.youtube.com/watch?v=wS0FDrkKY2I&list=PLvF-uMjWdYl0kcFqrGYtIUTHpyVAEsaLi 
-    # dashi beef
+    # taiwanese beef noodle
 # stew
   # CHICKEN
     # https://twosleevers.com/jamaican-chicken-curry/
@@ -281,7 +150,7 @@ def r():
   # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
   # dumpling soup?
 
-  recipes_list = [laksa.recipe, pesto_chicken.recipe, honey_vinegar_beef.recipe]
+  recipes_list = [mexican_feast.recipe]
 
   for recipe in recipes_list:
     for ingredient in recipe:
@@ -290,8 +159,8 @@ def r():
       else:
         ingredients[ingredient.name] = ingredient
 
-  for ingredient in global_ingredients:
-    ingredients[ingredient.name] = ingredient 
+  #for ingredient in global_ingredients:
+  #  ingredients[ingredient.name] = ingredient 
 
   sorted_ingredients = dict(sorted(ingredients.items(), key=lambda i: i[1].category.name))
 

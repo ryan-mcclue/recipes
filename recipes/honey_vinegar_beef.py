@@ -2,7 +2,7 @@ from .common import *
 
 recipe = [
   # eye fillet most expensive; too tender for stir fry
-  # scotch tender expensive
+  # scotch fillet tender expensive
   # sirloin/porterhouse less expensive
   # rump cheapest and toughest
   Ingredient("scotch/sirloin/porterhouse/rump-steak", 700, INGREDIENT_CAT.MEAT),

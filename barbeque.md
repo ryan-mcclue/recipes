@@ -5,6 +5,7 @@
 * always pre-heat before placing on. TODO: how long to pre-heat for? 30minutes?
   seems pre-heat for a long time then when using have it on low and utilise the built up residual heat?
 
+
 IMPORTANT: when about to move something if it's too sticky just let it be until it's ready to move
 don't commit to a full move before checking
 
@@ -23,3 +24,10 @@ tools: grate cleaner (before use always scrub), long tongs, long spatula
 
   When finished, leave on for a few minutes with lid closed to burn off residual things.
   then rub with cleaning brush. then turn off
+
+
+
+
+https://www.youtube.com/watch?v=ns_nm0iCDME
+
+* thin steak strips

@@ -2,7 +2,6 @@ from .common import *
 
 recipe = [
   Ingredient("chicken-breast", 750, INGREDIENT_CAT.MEAT),
-  Ingredient("fettucine-pasta", 500, INGREDIENT_CAT.OTHER),
   Ingredient("onion-powder", 2, INGREDIENT_CAT.CONDIMENT),
   Ingredient("garlic-powder", 2, INGREDIENT_CAT.CONDIMENT),
   Ingredient("pine-nuts", 30, INGREDIENT_CAT.OTHER),

@@ -1,28 +1,33 @@
 
 **CONDIMENT**:
-oregano (3), 
-cumin (3), 
+onion-powder (2), 
+garlic-powder (2), 
+
+**DAIRY**:
+parmesan (30), 
 
 **FRUIT_VEG**:
-roma-tomatoes (3), 
-garlic (8), 
-brown-onion (2), 
-fresh-coriander (1), 
+brown-onion (1), 
+ginger (1), 
+garlic (7), 
+basmati-rice (500), 
+sweet-potato (2), 
+green-beans (250), 
+lemon (1), 
+fresh-basil (60), 
 capsicum (1), 
-bay-leaves (2), 
-chilli (1), 
-avocado (2), 
-lime (1), 
+squash (1), 
+zuchinni (1), 
+red-onion (1), 
 
 **MEAT**:
-thin-beef-scotch-fillet (400), 
+chuck-steak (700), 
+chicken-breast (750), 
 
 **OTHER**:
-dried-chillis (1), 
-tomato-paste (2), 
-dried-black-beans (1), 
-brown-rice (1), 
-tortilla (1), 
-balsamic-vinegar (3), 
-worcestershire-sauce (1), 
-chipotle-in-adobo-sauce (1), 
+rendang-paste (1), 
+coconut-milk (270), 
+coconut-oil (1), 
+fettucine-pasta (500), 
+pine-nuts (30), 
+penne-pasta (500), 

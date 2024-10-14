@@ -11,6 +11,7 @@ recipe = [
   Ingredient("basmati-rice", 500, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("sweet-potato", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("green-beans", 250, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("white-rice", 250, INGREDIENT_CAT.OTHER),
 ]
 
 '''

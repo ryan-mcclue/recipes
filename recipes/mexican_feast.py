@@ -27,14 +27,14 @@ recipe = [
 ]
 
 '''
-SALSA:
+SALSA (less garlic):
   1. Oven roast tomatoes with slight char
-  2. In blender add tomatoes, 1/2cup water, 3 dried chillis, 1 large garlic clove and 1tsp salt
+  2. In blender add tomatoes, 1/2cup water, 1 dried chillis, 1 large garlic clove and 1tsp salt
   3. Fry 1/2 onion, 1/2 bunch chopped coriander for a few minutes
      Add 1/4tsp oregano and salsa.
      Simmer for about 3-5minutes
      
-BEANS AND RICE:
+BEANS AND RICE (need new recipe):
   1. In instant pot, saute onion, 4 garlic, capsicum and chilli.
   2. Add 1tsp salt, 2tbsp cumin, 1tbsp oregano, 1.5tbsp tomato paste, 2 bay leaves
   3. Add 1cup brown rice, 1 cup dried black beans soaked in water overnight,
@@ -42,7 +42,7 @@ BEANS AND RICE:
   4. Pressure cook on high pressure for 35minutes.
      Natural release 10 minutes (can be longer)
 
-STEAK:
+STEAK (pre-heat grill!):
   1. On medium high heat pan, roast 3 garlic cloves with skins on for about 10minutes.
      Remove skins.
   2. Blend garlic, 3tbsp balsamic vinegar, 1tbsp worcestershire,

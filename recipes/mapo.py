@@ -28,7 +28,7 @@ recipe = [
    and 1tsp peppercorn powder for 3-4minutes.
 5. Deglaze with 2tbsp chinese wine and simmer for 2-3minutes.
    Add 1tsp soy sauce, 1tsp sugar and 1/2tsp white pepper.
-6. Add 2/3cup of stock and tofu and simmer.
+6. Add 1cup of stock and tofu and simmer (may have to add more stock)
 7. Mix 2tsp cornstarch and 3tbsp water to make slurry and add. 
 8. Finish with 1tsp sesame oil and green part of spring onions.
 '''

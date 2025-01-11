@@ -1,8 +1,0 @@
-#!/bin/bash
-want_to_print=$(python3 recipes.py)
-
-if [[ $want_to_print == "to-print" ]]; then
-  pandoc -V documentclass=extarticle -V fontsize=17pt -V pagestyle=empty -V geometry:margin=1cm -V mainfont="DejaVu Sans" \
-    'recipes.md' --pdf-engine=xelatex -o 'recipes.pdf'
-  # xdg-open recipes.pdf
-fi

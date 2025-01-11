@@ -18,6 +18,8 @@ recipe = [
 ]
 
 '''
+IMPORTANT: the chillis will cause coughing. put wok outside
+Otherwise get 2 cayenne chillis
 1. Combine 1tbsp light soy, 0.5tbsp dark soy, 1tbsp fish sauce, 1tbsp oyster sauce and sugar.
 2. In mortar, grind garlic, chillis and shallot into paste.
 3. Fry eggs separately in wok until bottom crispy.

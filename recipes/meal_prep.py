@@ -40,7 +40,14 @@ recipe = [
 1. Cook rice in rice cooker.
    When fluffed, season with shichimi and juice and zest of 2 limes.
 (Put in container and let cool with date of cooked label and then in fridge.)
-2. Add black beans, salt, 3 bay leaves, 1 onion, 4 cloves of crushed garlic in presuure cooker.
+2. 1 cup of dried black beans.
+   Let soak overnight or 4 hours with water level above.
+   Drain and rinse.
+   Cover again with water level about 3cm above in pressure cooker.
+   Add salt, 3 bay leaves, 1 onion, 4 cloves of crushed garlic in pressure cooker.
+   High pressure for 6 minutes.
+   Natural release pressure until valve clicks down.
+(Put in container and let cool with date of cooked label and then in fridge.)
 (Put in container and let cool with date of cooked label and then in fridge.)
 3. Cover fish with olive oil, salt, fennel, white pepper. 
    Cook for 190 fan bake for 12minutes.
@@ -53,7 +60,6 @@ recipe = [
 6. Cover peeled and deveined prawns with olive oil, salt, tajin.
    Once prawn tails start to go pink, flip.
    Turn heat off and add juice of a lemon.
-(Put in container and let cool with date of cooked label and then in fridge.)
 (Put in container and let cool with date of cooked label and then in fridge.)
 7. Cut zuchinni halves diagonally (undercook veggies so not soggy for meal prep)
    Fry with salt and cumin.

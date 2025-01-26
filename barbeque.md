@@ -31,3 +31,38 @@ tools: grate cleaner (before use always scrub), long tongs, long spatula
 https://www.youtube.com/watch?v=ns_nm0iCDME
 
 * thin steak strips
+
+* 180g steak
+* 2 garlic
+* 16ml apple cider vinegar
+* 8ml worcester sauce
+* 1 canned chipotle and 8ml can sauce
+* 8ml olive oil
+* 1ml black pepper
+* 1ml cumin
+* 2.5ml oregano
+* 2.5ml salt
+(put in jar and blend with stick blender)
+
+* 700g chicken
+* 1 red chilli (with seeds)
+* 1 red onion (roughly chopped)
+* 1/3 jar roasted red peppers
+* 1tbsp thyme
+* 1tbsp sweet paprika
+* 1.5tsp salt
+* 2tbsp red wine vinegar
+(put in jar and blend with stick blender)
+
+* blanch corn for 5minutes in salted boiling water
+* then grill for char
+* top with butter, lemon zest and tajin
+
+* cut sweet potato into slices
+* mix with olive oil and small amount of garam masala
+* top with some chilli oil and fresh parsely
+
+* baby pineapple
+* cut of edges and then into halves
+* cut halves into thirds
+* top with honey and ricotta

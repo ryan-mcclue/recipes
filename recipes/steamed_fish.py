@@ -7,6 +7,7 @@ recipe = [
   Ingredient("chinese-wine", 1, INGREDIENT_CAT.OTHER),
   Ingredient("sugar", 1, INGREDIENT_CAT.OTHER),
   Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("light-soy-sauce", 1, INGREDIENT_CAT.OTHER),
   Ingredient("peanut-oil", 1, INGREDIENT_CAT.OTHER),
 ]
 
@@ -17,9 +18,9 @@ recipe = [
 4. Place slices of ginger on bottom of steaming plate.
    Top ginger slices with spring onion batons.
    Top with fish
-5. Cover pan with water. Fill in centre with foil circle.
-   Raise to boil. 
-   Place steaming plate on foil and cover with lid for 12minutes.
+5. Fill pan with about 1/4 water. Bring to simmer.
+   With tongs, fill in centre with foil trivet circle.
+   Place steaming plate on foil and cover with lid for 12minutes (check at 5 minutes).
 6. Combine 2tbsp light soy sauce, 1.5tsp sugar, 1tsp sesame oil, 3tbsp water. 
 7. Remove steamed fish and drain liquids.
 8. Top fish with julienned ginger, spring onions and sauce.

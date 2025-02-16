@@ -84,6 +84,9 @@ global_ingredients = [
   # BEEF
     # honey vinegar beef
     # korean beef
+  # PORK
+    # mapo tofu
+    # krad ka pow
 # curry
   # CHICKEN
     # thai green
@@ -105,6 +108,7 @@ global_ingredients = [
   # BEEF
     # beef nachos (jalapenos)
     # cottage pie
+    # crying tiger steak
 # wraps/sandwiches 
   # CHICKEN
     # fajita

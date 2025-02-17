@@ -12,6 +12,7 @@ recipe = [
 ]
 
 '''
+SERVE ON MASH POTATO OR RICE
 1. Season white fish with salt and chinese wine.
 2. Peel and juliene ginger (leave some ginger)
 3. Cut spring onions into batons and slice lengthwise.

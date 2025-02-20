@@ -18,6 +18,7 @@ recipe = [
 ]
 
 '''
+SAUCE IS WAY TOO ACIDIC. JUICE OF 1 LIME (roughly 2tbsp); REDUCE 
 1. Combine 1tbsp soy sauce, 1tbsp oyster sauce, 1tbsp fish sauce, 1tbsp sugar, 1tsp black pepper and 1tbsp peanut oil.
    Marinate steak in sauce.
 2. Roast 1tbsp of glutinous rice in pan until golden.

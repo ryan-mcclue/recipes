@@ -6,7 +6,7 @@ recipe = [
   Ingredient("red-capsicum", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("garlic", 5, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("bay-leaf", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("chilli", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("dried-chilli", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("fresh-thyme", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("tomatoes", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("smoked-paprika", 1, INGREDIENT_CAT.CONDIMENT),
@@ -19,7 +19,7 @@ recipe = [
 ]
 
 '''
-1. Roughly chop garlic, juliene onions and capsicums.
+1. Thinly slice garlic, juliene onions and capsicums.
    Fry until soft
 2. Remove skin of chorizo and slice.
    Add for 5 minutes.

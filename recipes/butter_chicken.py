@@ -11,7 +11,7 @@ recipe = [
   Ingredient("cumin", 1, INGREDIENT_CAT.CONDIMENT),
   Ingredient("boneless-skinless-chicken-thigh", 700, INGREDIENT_CAT.MEAT),
   Ingredient("butter", 4, INGREDIENT_CAT.DAIRY),
-  Ingredient("thickened-cream", 250, INGREDIENT_CAT.DAIRY),
+  Ingredient("lite-thickened-cream", 250, INGREDIENT_CAT.DAIRY),
   Ingredient("cauliflower", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("frozen-peas", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("jasmine-rice", 500, INGREDIENT_CAT.OTHER),
@@ -41,11 +41,8 @@ Ingredients
     1 teaspoon Ground Cumin
     1 pound Boneless Skinless Chicken Thighs (or use breast, bone-in, or whatever works for you. If frozen, add 1-2 minutes to total time)
     To finish
-    5tbsp ounces butter cut into cubes (use coconut oil if dairy free)
-    (4tbsp; better to use 2tbsp)
-    5tbsp ounces Heavy Cream (use full-fat coconut milk if dairy free)
-    (1cup; better to use 1/2cup)
+    1tbsp butter 
+    1/4cup lite thickened cream
     1 teaspoon Garam Masala
     1/4-1/2 cup chopped cilantro
-
 '''

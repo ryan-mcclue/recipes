@@ -1,7 +1,7 @@
 from .common import *
 
 recipe = [
-  Ingredient("chorizo", 2, INGREDIENT_CAT.MEAT),
+  Ingredient("spanish-chorizo", 2, INGREDIENT_CAT.MEAT),
   Ingredient("brown-onion", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("red-capsicum", 2, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("garlic", 5, INGREDIENT_CAT.FRUIT_VEG),

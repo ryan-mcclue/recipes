@@ -4,6 +4,7 @@ recipe = [
   Ingredient("white-fish", 400, INGREDIENT_CAT.MEAT),
   Ingredient("spring-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("potato", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("chinese-wine", 1, INGREDIENT_CAT.OTHER),
   Ingredient("sugar", 1, INGREDIENT_CAT.OTHER),
   Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),

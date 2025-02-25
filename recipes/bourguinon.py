@@ -1,7 +1,19 @@
 from .common import *
 
 recipe = [
-  Ingredient("peanut-oil", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("bacon", 200, INGREDIENT_CAT.MEAT),
+  Ingredient("chuck-steak", 1000, INGREDIENT_CAT.MEAT),
+  Ingredient("brown-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("carrot", 2, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("celery", 2, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("mushrooms", 200, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("bay-leaves", 4, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("fresh-rosemary", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("fresh-thyme", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("flour", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("red-wine", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("beef-stock", 2, INGREDIENT_CAT.OTHER),
 ]
 
 '''

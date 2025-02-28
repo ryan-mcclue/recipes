@@ -11,7 +11,6 @@ recipe = [
   Ingredient("bay-leaves", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("fresh-rosemary", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("fresh-thyme", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("flour", 1, INGREDIENT_CAT.OTHER),
   Ingredient("red-wine", 2, INGREDIENT_CAT.OTHER),
   Ingredient("beef-stock", 2, INGREDIENT_CAT.OTHER),
 ]
@@ -24,7 +23,7 @@ recipe = [
 4. Brown beef and remove with bacon.
 5. Saute strained vegetables.
 6. Add marinade to deglaze. Let bubble for couple of minutes. Cancel saute.
-7. Add 2 cups beef stock, 200g mushroom chunks, beef and bacon.
+7. Fill with beef stock till meat is covered (about 2 cups), 200g mushroom chunks, beef and bacon.
 8. High pressure for 45 minutes. Natural release 15 minutes.
 '''
 

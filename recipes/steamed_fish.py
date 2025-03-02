@@ -1,8 +1,9 @@
 from .common import *
 
 recipe = [
-  Ingredient("white-fish", 400, INGREDIENT_CAT.MEAT),
+  Ingredient("white-fish", 500, INGREDIENT_CAT.MEAT),
   Ingredient("spring-onion", 1, INGREDIENT_CAT.FRUIT_VEG),
+  Ingredient("brocolli", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("ginger", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("potato", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("chinese-wine", 1, INGREDIENT_CAT.OTHER),
@@ -10,11 +11,12 @@ recipe = [
   Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),
   Ingredient("light-soy-sauce", 1, INGREDIENT_CAT.OTHER),
   Ingredient("peanut-oil", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("dumplings", 1, INGREDIENT_CAT.OTHER),
 ]
 
 '''
 SERVE ON MASH POTATO OR RICE
-1. Season white fish with salt and chinese wine.
+1. Season white fish (basa) with salt and chinese wine.
 2. Peel and juliene ginger (leave some ginger)
 3. Cut spring onions into batons and slice lengthwise.
 4. Place slices of ginger on bottom of steaming plate.

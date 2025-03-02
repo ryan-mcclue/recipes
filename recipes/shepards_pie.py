@@ -9,7 +9,7 @@ recipe = [
   Ingredient("thyme", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("rosemary", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("potato", 1000, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("beef-mince", 1000, INGREDIENT_CAT.MEAT),
+  Ingredient("lamb-mince", 1000, INGREDIENT_CAT.MEAT),
   Ingredient("frozen-peas", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("worcestershire-sauce", 2, INGREDIENT_CAT.OTHER),
   Ingredient("tomato-paste", 2, INGREDIENT_CAT.OTHER),

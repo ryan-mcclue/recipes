@@ -11,12 +11,12 @@ recipe = [
   Ingredient("bay-leaves", 4, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("fresh-rosemary", 1, INGREDIENT_CAT.FRUIT_VEG),
   Ingredient("fresh-thyme", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("red-wine", 2, INGREDIENT_CAT.OTHER),
+  Ingredient("red-wine", 3, INGREDIENT_CAT.OTHER),
   Ingredient("beef-stock", 2, INGREDIENT_CAT.OTHER),
 ]
 
 '''
-1. Marinate beef in 2 cups red wine, 4 bay leaves, fresh rosemary, fresh thyme, 4 garlic cloves sliced, celery chunks, carrot chunks, onion chunks, salt, pepper.
+1. Marinate beef in 1 bottle of red wine, 4 bay leaves, fresh rosemary, fresh thyme, 4 garlic cloves sliced, celery chunks, carrot chunks, onion chunks, salt, pepper.
    Mix with hands.
 2. Strain beef.
 3. Saute bacon and strained vegetables in butter and oil.

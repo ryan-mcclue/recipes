@@ -5,6 +5,20 @@ Sorbet: 3 pears, skins removed, sliced.
         Fill halfway with peach juice.
         Blend in with immersion blender.
         Freeze for 24 hours.
+
+1 small whole watermelon (fill container slightly above with chunks)
+1 tbsp honey
+1/2 lime
+(perhaps include 1tsp of lime zest?)
+
+mint
+mango
+
+1/2cup berries + 1cup yogurt + 1cup milk + 2tbsp maple + 1tsp lemon zest + 2tbsp lemon
+
+steep vanilla bean in milk + cocoa powder
+
+
         
 
 freeze without lid on to avoid humps?

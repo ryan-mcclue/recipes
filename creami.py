@@ -1,4 +1,5 @@
 """
+Seems need more liquid
 Sorbet: 3 pears, skins removed, sliced.
         whole canned peaches in juice.
         Add pears and 3 peaches.

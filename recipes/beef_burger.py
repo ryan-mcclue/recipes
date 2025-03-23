@@ -31,16 +31,13 @@ recipe = [
 9. Cook at 180deg, 15minutes each side
 
 Relish:
-    150g Finely chopped onion
-    15g Finely chopped garlic
-    600g Peeled and chopped tomato
-    150ml Red wine vinegar
-    75g Sugar
-    100g Finely chopped gherkin
-    50g Butter
-    15ml Paprika
-    15ml Tapioca flour or cornflour mixed with 30ml water
-
+    1 onion
+    3 garlic
+    1/2cup chopped gherkins
+    4 fresh tomatoes
+    2tbsp red wine vinegar
+    1tbsp brown sugar
+    1tsp smoked paprika
 
 Ingredients
     12 Jacob's cream crackers

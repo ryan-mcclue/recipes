@@ -20,8 +20,6 @@ mango
 steep vanilla bean in milk + cocoa powder
 
 
-        
-
 freeze without lid on to avoid humps?
 IMPORTANT: freeze on level surface
 IMPORTANT: let container sit outside for at least 10 minutes
@@ -33,12 +31,14 @@ MILK + FLAVOURING
 mint, vanilla, chocolate, 
 
 THICKENER 
-4 egg yolks whisked. Add 1/2cup sugar.
-Add 2 cups heavy cream to pan with 1 cup of almond milk.
+4 egg yolks whisked. Whisk in 1/2cup sugar.
+Add 2 cups thickened/pure cream to pan with 1 cup of almond milk.
 Heat slightly below simmering temperature.
-Add small amounts of mixture to eggs and whisk together till gets up to temperature.
-Then add back to pan on medium low heat and stir regularly for about 5 minutes.
+Add small amounts of cream mixture to yolks and whisk together till gets up to temperature.
+Then add back to pan on medium low heat and stir constantly for about 5 minutes. 
+(NO BUBBLING! HEATING JUST TO THICKEN)
 Cool down in ice-bath and pour into container, leaving room for flavouring.
+Add a some flavouring, like strawberries and blend in with immersion blender.
 
 
 SWEETENER

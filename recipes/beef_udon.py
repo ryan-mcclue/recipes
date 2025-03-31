@@ -17,10 +17,12 @@ recipe = [
 '''
 (a miso soup would have this dashi stock and miso paste added to it)
 
+
 1. Make 1.5L of dashi stock and simmer for a few minutes.
    Add mirin, sake, soy sauce, and sugar and simmer for 3-4 minutes. 
 2. Fry half spring onion, garlic and ginger (in pan not wok).
 3. Then fry sliced beef.
+IMPORTANT: Fry the beef separately as very watery from Coles
 4. Once beef browned, add deglazing liquids for 2-3minutes.
    For flavour to combine, let simmer and deglaze for a period.
 5. Serve topped with bok choy, spring onion (bean sprouts)

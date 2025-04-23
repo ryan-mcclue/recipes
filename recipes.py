@@ -154,7 +154,7 @@ def r():
   # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
   # dumpling soup?
 
-  recipes_list = [chorizo_soup.recipe, beef_udon.recipe, butter_chicken.recipe]
+  recipes_list = [rogan_josh.recipe, mapo.recipe, kung_pao.recipe]
 
   for recipe in recipes_list:
     for ingredient in recipe:

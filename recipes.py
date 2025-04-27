@@ -154,7 +154,7 @@ def r():
   # chicken-soup: https://www.youtube.com/watch?v=MxAqHuPPjUs
   # dumpling soup?
 
-  recipes_list = [rogan_josh.recipe, mapo.recipe, kung_pao.recipe]
+  recipes_list = [tofu_tempah.recipe, dahl.recipe, paneer.recipe]
 
   for recipe in recipes_list:
     for ingredient in recipe:
@@ -163,8 +163,8 @@ def r():
       else:
         ingredients[ingredient.name] = ingredient
 
-  for ingredient in global_ingredients:
-    ingredients[ingredient.name] = ingredient 
+  #for ingredient in global_ingredients:
+  #  ingredients[ingredient.name] = ingredient 
 
   sorted_ingredients = dict(sorted(ingredients.items(), key=lambda i: i[1].category.name))
 

@@ -16,6 +16,21 @@ recipe = [
 ]
 
 '''
+1. Cook pancetta/bacon/chorizo in oil.
+2. Add 1 diced chilli with seeds
+3. Add 4 garlic
+4. Add brown/red onion
+5. Add 2tbsp dark brown sugar and then 2tbsp of vinegar (mix-and-match) to deglaze.
+
+6. Add 1tbsp wocestershire sauce
+   OR
+   1/2tsp smoked paprika, 1/2tsp thyme
+
+7. Add passata
+   OR
+   tins tomatoes
+
+
 1. Soften onion with salt and pepper.
 2. Add sliced garlic.
 3. Add 2tbsp sugar, 2tbsp vinegar.

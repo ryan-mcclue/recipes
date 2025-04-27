@@ -1,3 +1,14 @@
+from .common import *
+
+recipe = [
+  Ingredient("extra-firm-tofu", 500, INGREDIENT_CAT.OTHER),
+  Ingredient("tempeh", 300, INGREDIENT_CAT.OTHER),
+  Ingredient("avocado-oil", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("soy-sauce", 1, INGREDIENT_CAT.OTHER),
+  Ingredient("paprika", 1, INGREDIENT_CAT.CONDIMENT),
+  Ingredient("garlic-powder", 1, INGREDIENT_CAT.CONDIMENT),
+]
+
 '''
 EXTRA-FIRM-TOFU:
 1. Pat dry, then break apart tofu with hand into bowl (want craggly edges).

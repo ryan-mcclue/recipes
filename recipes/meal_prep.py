@@ -1,42 +1,63 @@
 from .common import *
 
 recipe = [
-  Ingredient("rice", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("black-beans", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("rice", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("black-beans", 2, INGREDIENT_CAT.OTHER),
 
-  Ingredient("shichimi-togarashi", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("fennel", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("old-bay", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("tajin", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("coriander", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("lemon-myrtle", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("cumin", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("paprika", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("white-pepper", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("shichimi-togarashi", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("fennel", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("old-bay", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("tajin", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("coriander", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("lemon-myrtle", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("cumin", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("paprika", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("white-pepper", 2, INGREDIENT_CAT.OTHER),
 
-  Ingredient("sherry-vinegar", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("apple-cider-vinegar", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("coconut-vinegar", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("sherry-vinegar", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("apple-cider-vinegar", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("coconut-vinegar", 2, INGREDIENT_CAT.OTHER),
 
-  Ingredient("lime", 2, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("lemon", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("zuchinni", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("squash", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("corn", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("asparagus", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("baby-spinach", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("red-cabbage", 1, INGREDIENT_CAT.FRUIT_VEG),
-  Ingredient("cucumber", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("lime", 2, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("lemon", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("zuchinni", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("capsicum", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("squash", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("corn", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("asparagus", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("baby-spinach", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("red-cabbage", 1, INGREDIENT_CAT.FRUIT_VEG),
+   Ingredient("cucumber", 1, INGREDIENT_CAT.FRUIT_VEG),
 
-  Ingredient("barramundi", 2, INGREDIENT_CAT.MEAT),
-  Ingredient("chicken-breast", 2, INGREDIENT_CAT.MEAT),
-  Ingredient("beef-mince", 2, INGREDIENT_CAT.MEAT),
-  Ingredient("prawns", 2, INGREDIENT_CAT.MEAT),
+   Ingredient("barramundi", 2, INGREDIENT_CAT.MEAT),
+   Ingredient("chicken-breast", 2, INGREDIENT_CAT.MEAT),
+   Ingredient("beef-mince", 2, INGREDIENT_CAT.MEAT),
+   Ingredient("prawns", 2, INGREDIENT_CAT.MEAT),
+
+# https://www.themediterraneandish.com/chermoula-recipe/
+# https://www.themediterraneandish.com/harissa-recipe/ 
+# https://www.loveandlemons.com/pesto-recipe/
+# https://minimalistbaker.com/quick-ginger-garlic-miso-tahini-dressing/
+   Ingredient("tahini", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("ginger", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("garlic", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("coconut-aminos", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("white-miso-paste", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("rice-vinegar", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("maple-syrup", 1, INGREDIENT_CAT.OTHER),
 
 ]
 
 '''
+MISO-SAUCE:
+1. Whisk 1/3cup tahini, 1tbsp ginger, 2 cloves garlic, 1tbsp miso paste, 1tbsp coconut aminos, 1tbsp rice vinegar,
+   2tsp maple syrup, salt. 
+2. Add 2-3tbsp water gradually until pourable sauce.
+
+
+
+
 1. Cook rice in rice cooker.
    When fluffed, season with shichimi and juice and zest of 2 limes.
 (Put in container and let cool with date of cooked label and then in fridge.)
@@ -81,5 +102,15 @@ recipe = [
 12. Mix red cabbage slices with salt and coconut vinegar.
 13. Cut cumber into halves and remove seed part.
     Then cut diagonally.
+
+
+
+
+
+
+
+
+
+
 '''
 

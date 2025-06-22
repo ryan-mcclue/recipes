@@ -2,8 +2,8 @@ from .common import *
 
 recipe = [
   Ingredient("peanut-oil", 2, INGREDIENT_CAT.OTHER),
-  Ingredient("prawns", 10, INGREDIENT_CAT.MEAT),
-  Ingredient("chinese-sausage", 2, INGREDIENT_CAT.MEAT),
+  Ingredient("prawns", 12, INGREDIENT_CAT.MEAT),
+  Ingredient("chorizo", 1, INGREDIENT_CAT.MEAT),
   Ingredient("eggs", 2, INGREDIENT_CAT.DAIRY),
   Ingredient("garlic", 4, INGREDIENT_CAT.FRUIT_VEG),
 

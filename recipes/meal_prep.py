@@ -37,7 +37,17 @@ recipe = [
 # https://www.themediterraneandish.com/chermoula-recipe/
 # https://www.themediterraneandish.com/harissa-recipe/ 
 # https://www.loveandlemons.com/pesto-recipe/
-# https://minimalistbaker.com/quick-ginger-garlic-miso-tahini-dressing/
+
+   Ingredient("dried-chilli", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("jarred-roasted-capsicums", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("tomato-paste", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("garlic", 4, INGREDIENT_CAT.OTHER),
+   Ingredient("caraway-seeds", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("ground-cumin", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("ground-coriander", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("smoked-paprika", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("lemon", 1, INGREDIENT_CAT.OTHER),
+
    Ingredient("tahini", 1, INGREDIENT_CAT.OTHER),
    Ingredient("ginger", 1, INGREDIENT_CAT.OTHER),
    Ingredient("garlic", 2, INGREDIENT_CAT.OTHER),
@@ -55,7 +65,12 @@ MISO-SAUCE:
    2tsp maple syrup, salt. 
 2. Add 2-3tbsp water gradually until pourable sauce.
 
-
+HARISSA:
+1. Soak 6 dried chillis in warm water. Cut and remove seeds
+2. Add 2tbsp tomato paste, 170g of roasted capsicums, 4 crushed garlic cloves,
+1tsp toasted and grinded caraway seeds, 2tsp coriander, 2tsp cumin, 1tsp smoked paprika,
+2tbsp lemon juice and salt in food processor.
+(Refrigerate by covering top layer with olive oil?)
 
 
 1. Cook rice in rice cooker.

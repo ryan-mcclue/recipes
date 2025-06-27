@@ -35,10 +35,10 @@ recipe = [
    Ingredient("prawns", 2, INGREDIENT_CAT.MEAT),
 
 # https://www.themediterraneandish.com/chermoula-recipe/
-# https://www.themediterraneandish.com/harissa-recipe/ 
 # https://www.loveandlemons.com/pesto-recipe/
 
-   Ingredient("dried-chilli", 2, INGREDIENT_CAT.OTHER),
+# HARRISA
+   Ingredient("dried-chilli", 3, INGREDIENT_CAT.OTHER),
    Ingredient("jarred-roasted-capsicums", 1, INGREDIENT_CAT.OTHER),
    Ingredient("tomato-paste", 1, INGREDIENT_CAT.OTHER),
    Ingredient("garlic", 4, INGREDIENT_CAT.OTHER),
@@ -48,29 +48,60 @@ recipe = [
    Ingredient("smoked-paprika", 1, INGREDIENT_CAT.OTHER),
    Ingredient("lemon", 1, INGREDIENT_CAT.OTHER),
 
-   Ingredient("tahini", 1, INGREDIENT_CAT.OTHER),
-   Ingredient("ginger", 1, INGREDIENT_CAT.OTHER),
+# SALSA
+   Ingredient("whole-peeled-tomatoes", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("red-onion", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("fresh-coriander", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("lime", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("jalapeno", 1, INGREDIENT_CAT.OTHER),
    Ingredient("garlic", 2, INGREDIENT_CAT.OTHER),
-   Ingredient("coconut-aminos", 1, INGREDIENT_CAT.OTHER),
-   Ingredient("white-miso-paste", 1, INGREDIENT_CAT.OTHER),
-   Ingredient("rice-vinegar", 1, INGREDIENT_CAT.OTHER),
-   Ingredient("sesame-oil", 1, INGREDIENT_CAT.OTHER),
-   Ingredient("maple-syrup", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("cumin", 1, INGREDIENT_CAT.OTHER),
 
+# PESTO
+   Ingredient("pine-nuts", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("lemon", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("garlic", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("fresh-basil", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("olive-oil", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("parmesan-cheese", 1, INGREDIENT_CAT.OTHER),
+
+# CHERMOULA
+   Ingredient("fresh-parsley", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("fresh-coriander", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("garlic", 2, INGREDIENT_CAT.OTHER),
+   Ingredient("ground-coriander", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("chilli-flakes", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("paprika", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("ground-ginger", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("lemon", 1, INGREDIENT_CAT.OTHER),
+   Ingredient("olive-oil", 1, INGREDIENT_CAT.OTHER),
 ]
 
 '''
-MISO-SAUCE:
-1. Whisk 1/3cup tahini, 1tbsp ginger, 2 cloves garlic, 1tbsp miso paste, 1tbsp coconut aminos, 1tbsp rice vinegar,
-   2tsp maple syrup, salt. 
-2. Add 2-3tbsp water gradually until pourable sauce.
-
 HARISSA:
-1. Soak 6 dried chillis in warm water. Cut and remove seeds
-2. Add 2tbsp tomato paste, 170g of roasted capsicums, 4 crushed garlic cloves,
+1. Soak 3 dried chillis in warm water. Cut and remove seeds
+2. Add 2tbsp tomato paste, 170g of roasted capsicums (2 whole roasted in jar), 4 crushed garlic cloves,
 1tsp toasted and grinded caraway seeds, 2tsp coriander, 2tsp cumin, 1tsp smoked paprika,
 2tbsp lemon juice and salt in food processor.
-(Refrigerate by covering top layer with olive oil?)
+(Refrigerate by covering top layer with olive oil)
+
+SALSA:
+1. Blend 1 can tomatoes, 1/4 red onion, 1/4 cup coriander, 1 lime, 1 jalapeno, 2 cloves garlic, 1/4tsp cumin,
+   salt and pepper.
+(Refrigerate by covering top layer with olive oil)
+
+PESTO:
+1. Blend 1/2cup toasted pine nuts, 2tbsp lemon juice, 1 garlic
+2. Blend 2 cups basil
+3. Blend 1/4cup olive oil
+4. Blend 1/4cup parmesan cheese
+(Refrigerate by covering top layer with olive oil)
+
+CHERMOULA:
+1. Blend 1cup coriander, 1cup parsely, 2 garlic cloves, 1tsp coriander, 1tsp chilli flakes,
+   1/2tsp ground ginger, 2tbsp lemon juice and salt.
+2. Blend 3/4cup olive oil 
+(Refrigerate by covering top layer with olive oil)
 
 
 1. Cook rice in rice cooker.

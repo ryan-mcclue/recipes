@@ -42,4 +42,12 @@ recipe = [
     4. Dilute the tomato puree in a little of the stock and stir into the meat.
     5. Reduce the heat to low, cover with a lid and cook on a gentle heat for 2 hours, checking and adding a little extra stock from time to time to avoid the sauce from drying out.
     6. Remove from the heat and serve with freshly cooked tagliatelle.
+
+Alternative:
+  1. Dice 200g bacon and cook till fat renders.
+  2. Add grated 1 celery, 1 onion, 1 carrot, mince 2 garlic.
+  3. Add oregano and rosemary.
+  4. Add beef
+  5. Add 1cup beef stock and basil
+  6. 2 cans of crush tomatoes
 '''

@@ -1,12 +1,15 @@
 from .common import *
 
-# 5g fresh oregano, rosemary, basil
-# 2 minced garlic
-
-# cook pancetta
-# add grated carrot, onion, celery and soften
-# add garlic, rosemary and oregano
-# brown meat etc.
+# 500g beef mince
+# 200g pancetta/sausage
+# oregano, chilli flakes, tomato paste
+#
+# cook beef mince and sausage. add onion and garlic.
+# add spices and tomato paste.
+# add 800g diced tomatoes, beef stock. fill can with water and add to pan.
+# add fresh basil
+# add 350g broken spaghetti and simmer
+# for 15minutes in 220deg oven. every 5 minutes stir.
 
 recipe = [
   Ingredient("beef-mince", 500, INGREDIENT_CAT.MEAT),

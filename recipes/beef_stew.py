@@ -4,5 +4,5 @@
    1tbsp tomato paste, 1 cup bouillon paste and mix. 
    Add cubes and mix.
 3. Top with diced onion, carrot, celery and potato. Don't mix.
-4. High pressure 40min. natural release 10.
+4. High pressure 40min. natural release 15.
 '''

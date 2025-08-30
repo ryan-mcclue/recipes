@@ -20,6 +20,13 @@ recipe = [
 ]
 
 '''
+1. add sesame seeds and chilli flakes to sauce
+2. cook chicken and remove
+3. fry vegetables
+4. Fry ginger, garlic and spring onion.
+   Add sauce and let reduce/thicken and add chicken.
+
+
 1. Slice vegetables.
 2. Slice chicken. 
    Coat with 2 heaped tsp of corn flour and white pepper.

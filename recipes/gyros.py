@@ -4,5 +4,5 @@
 3. On skewer, meat cube, diced cherry tomato, onion.
    When cooked, drizzle with lemon juice.
 4. Dice cherry tomato, red onion, feta (bedding)
-5. Serve tzatiki, bedding, meat skewer (slide off)
+5. Serve tzatiki, bedding, meat skewer (slide off) and optionally top with chips.
 '''

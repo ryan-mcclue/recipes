@@ -14,11 +14,13 @@ recipe = [
 ] 
 
 '''
-1. Saute ginger and garlic in oil.
-2. Add diced chicken, large cut vegetables and water.
-3. Place curry paste blocks on top (to prevent scorching)
-4. High pressure for 7minutes
-5. Add coconut milk 
+1. saute ginger, garlic and 1 brown onion.
+2. add 2 tbsp ketchup and 1/2tbsp worcestershire.
+3. add chicken.
+4. add 3 potatoes and 1 carrot.
+5. add 1.5cups of water.
+6. cover with 1/2 pack of vermont curry blocks 
+7. high pressure 10, natural release 10
 
 Ingredients
     1 tablespoon Oil
